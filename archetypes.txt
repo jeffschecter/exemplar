@@ -1,0 +1,858 @@
+Artisan
+power level 2
+Abilities Technology 3d
+Specialty The Creation of Beautiful Things (Technology)
+Training Choose one.
+Architecture.
+Armorer.
+Bladesmith.
+Gunsmith.
+Mechanical Engineering.
+Shipbuilding.
+Traits
+Craftsmanship: When you pass a test of Technology to make a new resource by creating something, you may spend a point of Willpower to declare it a masterpiece. You may count as help (and lend a bonus die) to any character using your masterpieces, even if you are not present in the scene.
+Resources
+A reputation for excellence.
+Loyal clients and associated income.
+Your workshop with employees and apprentices.
+Modest lodgings adjacent to your workshop.
+Bond Relationship A client who has given you a commission but not yet paid in full.
+
+Assassin
+power level 5
+Abilities Prowess 3d or 4d, Speed 3d, Stealth 4d
+Specialty Choose one.
+Sneak Attack (Stealth).
+Inconspicuous (Stealth).
+Training Disguises, Poisons, Counter-Security, Assassin Weapons
+Traits
+Cold Blooded Killer: When you ambush an enemy, refresh Willpower up to 2.
+Resources
+Inconspicuous clothing with hidden pockets for concealing the tools of your trade.
+Weapons: pellet pistol (threat 2, can be poisoned), vibration knives (threat 2, or threat 3 when paired), garrotte (threat 2), throwing darts (threat 2).
+Disguise kit.
+Lock picks.
+Smoke grenades.
+One dose of a deadly poison (threat 4, ignores armor): choose a capsule that dissolves without trace in drink, oil to be smeared upon a blade or pellet, needle concealed in a ring, or fake tooth filled with poison gas.
+Antidote to the poison.
+Bond Relationship Your target.
+
+Beastmaster
+power level 4
+Abilities Perception 3d, possibly Prowess 3d, Speed 3d, possibly Stealth 3d, Survival 3d or 4d
+Training Animal Handling
+Traits
+Beast Companion: You have an animal companion, which is treated as an extension of yourself. You share a Vitality pool, Willpower, and abilities (though your beast may typically only test Perception, Prowess, Speed, Stealth, Steel, and Survival). In combat, you may always test Survival for the actions of your companion.
+Resources
+A loyal and intelligent beast who can understand your commands and communicate simple ideas back to you. Choose: alien organism with naturally high sapience, genetically engineered for intelligence, cybernetically and cognitively enhanced, or conditioned for obedience. The beast's natural weapons have a threat of 3, and its natural armor has a protection of 1 and bulk of 0.
+Bond Relationship The only other person your companion obeys, or shows affection.
+
+Bodyguard
+power level 5
+Abilities Prowess 3d, Medicine 3d, Perception 3d, Steel 3d
+Specialty Hidden Threats (Perception)
+Training Light Armor, First Aid
+Traits
+Protector: When you stand in defense of someone, increase their guard value by 1.
+Resources
+Stipend from your employer.
+Access to locations frequented by your employer.
+Weapons and armor: bulletproof vest (protection 1, bulk normally 1 but 0 with your training), centrifuge pistol (threat 2), stun baton (threat 2).
+Bond Relationship Your employer and ward.
+
+Bounty Hunter
+power level 4
+Abilities Prowess 3d, Speed 3d, possibly Stealth 3d, Technology 3d, possibly Vehicles 3d
+Training All Armor, Heavy Weapons, Exotic Hand Weapons, Booby Traps
+Traits
+Armamentarium: In combat, you may always test Technology when using your resources to confuse, stun, slow down, ensnare, delay, or outmaneuver the opponent, as long as you are not also trying to deal damage.
+Resources
+Small personal ground vehicle, air vehicle, or intrasystem spacecraft.
+Weapons and armor: customized space armor (protection 2, bulk normally 1 but 0 with your training; or protection 3, bulk normally 2 but 1 with your training), anti-armor rifle (threat 4), exotic nonlethal hand weapons (threat 4, two handed; and threat 3, one-handed).
+Set of tiny aerostatic drones that discretely follow and record a target.
+Tagger darts that leave a locator beacon embedded in the target's skin.
+High explosives with a dead-man's switch.
+Gas grenades filled with sleeping gas.
+Nets, bolos, caltrops, and tripwires to slow down and ensnare your targets.
+Restraints.
+Jet pack.
+Bond Relationship Your bounty.
+
+Captain
+power level 4
+Abilities Logistics 3d, Influence 3d, Vehicles 3d
+Specialty Choose one.
+Fleet Tactics (Logistics).
+Ship Command (Influence).
+Training Zero-G Movement, High-G Movement, Spacecraft Operations
+Resources
+Command of a spacecraft. Choose: a stolen intrasystem hauler given ship to ship weapons and a crew of brigands, a mid-sized intrasystem craft which you own outright, a luminal transit freighter owned and chartered by the Guild, an intrasystem defense cruiser owned by a planetary power, or a luminal transit warship of an interplanetary navy.
+The loyalty and obedience of your ship's crew.
+Bond Relationship Choose.
+The owner of your ship.
+An officer of the ship under your command.
+
+Chimaera
+power level 4
+Abilities Perception 3d, Speed 3d, possibly Survival 3d
+Traits Choose up to 4, or up to 7 if you take a raise.
+Amphibious.
+Extended Sensory Range.
+Gecko Climbing.
+Inhuman Appearance.
+Toad-Leaping.
+Vacuum Adaptation.
+Tooth and Claw.
+Massive.
+Contortionist.
+And choose up to 2, or up to 4 if you take a raise.
+Accelerated Healing: You may recover 1 point of lost Vitality at the start or end of each of your highlight scenes. When others test Medicine to help you recover, the base Difficulty from marked wound boxes is halved (rounding down).
+Bloodbag: When another character receives a transfusion of your blood, you count as help on any test of Medicine made to operate on that character. In addition, you may spend up to 2 points of Willpower: 1 to transfer the patient's marked Injured wound box to yourself, and 1 to transfer a point of your own Vitality to the patient.
+Face-Changing: You may enter a fugue during which your appearance, build, and voice change however you like, taking between a few minutes for minor cosmetic changes and a full day for large changes in body type.
+Mimetic Camouflage: When unmoving you are effectively invisible. Whenever you call upon this trait you may immediately move to the Hidden fighting distance.
+Venom: Glands in your mouth or under your fingernails produce a poison of threat 4 that ignores armor, useable once per act.
+Bond Relationship Someone who treats you like a human being.
+
+Clerk
+power level 2
+Abilities Logistics 4d
+Specialty Bureaucracy (Logistics)
+Training Finance, Auditing, Business Strategy, Analytics
+Resources
+Steady but modest income.
+Post in an influential bureaucratic organization.
+An impending promotion.
+Insider knowledge.
+Bond Relationship Choose.
+A competitor offering a more senior position in exchange for something unethical.
+Your boss.
+
+Clone
+power level 1
+Abilities Steel 3d
+Traits Choose at least one.
+Child in the Body of an Adult.
+Doppelgänger: You have been extensively trained and sculpted to be an exact duplicate of your clone-progenitor, to the extent that uncovering your true identity is impossible without putting you to the question or catching you in an inconsistency.
+Genetically Perfected: You may engage in physical exertion for twice as long without tiring, have twice the lifespan of most humans, immunity to common illnesses, and almost no need for sleep. Add +1 to your Vitality pool.
+Bond Relationship Choose.
+Your clone-progenitor, the source of your genetic material.
+Your owner.
+
+Conditioned
+power level 1
+Abilities Steel 4d
+Traits
+Ban: There are certain actions which are impossible for you to take, memories impossible for you to recall, and thoughts impossible for you to think.
+Trigger: When a special code phrase is spoken, you will unhesitatingly and without thought perform some action without hesitation, as determined by your conditioning.
+Bond Relationship The person who put you through the conditioning process.
+
+Cyborg
+power level 4
+Abilities possibly Prowess 3d, Perception 3d or 4d, Speed 3d or 4d, Technology 3d
+Traits Choose up to 4, or up to 7 if you take a raise, or all 10 if you take 2 raises.
+Brain-Machine Interface.
+Accelerated Cognition.
+Artificial Eidetic Memory.
+Boosted Reflexes: Once per scene, during an opponent's combat turn, you may immediately seize the initiative and start a new combat turn.
+Extended Sensory Range.
+Integral Armor (protection 2, bulk 0).
+Integral Weapons (threat 3).
+Signal Dampener: Add +1 to your Vitality pool. When you call upon this trait, you may also ignore the +1 Difficulty penalty for a marked Injured wound box until the end of the combat turn.
+Slaved Nervous System.
+Embedded Holographic Projectors.
+Bond Relationship The person who bankrolled or ordered your modification.
+
+Detective
+power level 4
+Abilities possibly Logistics 3d, Perception 4d, Vehicles 3d
+Specialty Crime Scene Investigation (Perception)
+Training Forensics
+Traits Eye for Detail
+Resources
+Stipend from your security department.
+Badge.
+Access to the departmental vehicle pool, armory, and facilities.
+Weapons: centrifuge pistol (threat 2).
+Contacts in the local security forces.
+Informants willing to work with you.
+Bond Relationship Choose.
+A suspect under your investigation.
+Your partner at the department.
+
+Doctor
+power level 3
+Abilities Medicine 4d, possibly Technology 3d
+Specialty Choose one.
+Trauma Care (Medicine).
+Cybernetics (Medicine).
+Psychological Conditioning (Medicine).
+Training Choose any or all.
+Internal Medicine.
+Surgery.
+Psychology.
+Biomedical Engineering.
+Epidemiology.
+Traits Choose one, determined by the chosen specialty in Medicine.
+Healing Touch: When you test Medicine to help another character recover, the base Difficulty from marked wound boxes is halved (rounding down). At the same time, if your test succeeds, you may spend any amount of Willpower to let the patient recover an equal amount of Vitality. Paired with Trauma Care.
+Cyberneticist: In a training scene, you may grant other characters traits from the Cyborg archetype. The patient does not need to pass a test of Perception or Steel; instead, you test your Medicine.(Paired with Cybernetics.
+Sculptor of Will: In a training scene, you may grant other characters traits from the Conditioned archetype. Rather than the normal tests for a training scene, roll a contest of your Medicine against the patient's Steel. An extra hit may be spent to grant both the Ban and Trigger traits at once. Nobody needs to shade Nemesis in order to grant these traits. Paired with Psychological Conditioning.
+Resources
+Your clinic, hospital, or medical bay, and associated incomes.
+Medical support staff and assistants.
+Drugs and poisons (threat 4, ignores armor).
+Bond Relationship A patient.
+
+Drifter
+power level 3
+Abilities Perception 3d, Stealth 3d, Steel 3d
+Resources
+A small stock of something valuable that can be sold for cash on most worlds.
+A memento of your past life.
+An indenture or large debt to the ship that brought you to this planet.
+Bond Relationship Choose.
+Someone you left behind, or fled from.
+A stranger who has taken you in.
+
+Duelist
+power level 4
+Abilities Prowess 3d or 4d, Speed 3d or 4d, Steel 3d
+Specialty Paired Blades (Prowess)
+Training Parrying Blade, Light Armor, Cards
+Traits
+Lightning Draw: When the first test in a combat sets Prowess against Prowess for a clash of blades, before dice are rolled, you may declare that neither character has their guard up. Each recovers their guard before the next test is rolled.
+Bravado: If someone insults you or the bond granted by this archetype, you must demand satisfaction—either a sincere apology, or single combat. When you do so, refresh Willpower up to 3. If you fail to demand satisfaction, shade a circle of Nemesis.
+Resources
+Excessively expensive, fashionable, and garish clothes.
+Bad reputation. Choose gambler, fop, hotheaded braggart, or murderer.
+Weapons and armor: silksteel shirt (protection 1, bulk normally 1 but 0 with your training), diamond smallsword (threat 2), parrying blade (+1 guard when used defensively in the off-hand, with your training).
+Bond Relationship One whose honor you have sworn to defend with your blade.
+
+Gangster
+power level 3
+Abilities Influence 3d, possibly Prowess 3d, Vehicles 3d
+Specialty Intimidation (Influence)
+Resources
+A family willing to do you a favor.
+Weapons: centrifuge pistol (threat 2), centrifuge rifle (threat 4).
+Connections able to launder money, procure goods on the black market, make bodies disappear, and arrange shady legal representation.
+Choose: gambling debts or a warrant for your arrest.
+Bond Relationship Choose.
+Someone who owes you a favor.
+Someone who has recently done a favor for you.
+
+Gunslinger
+power level 5
+Abilities Prowess 4d, Perception 3d, Speed 3d or 4d
+Specialty Paired Pistols (Aim)
+Training Light Armor, Gunsmith, Dual Wield
+Traits
+Gun Fu: Ignore the +1 Difficulty penalty for using pistols while engaged.
+Resources
+Weapons and armor:  bulletproof vest (protection 1, bulk normally 1 but 0 with your training), paired centrifuge pistol (threat 2 or 3 when used together), centrifuge rifle (threat 3).
+Lots and lots of extra ammunition.
+Bond Relationship The closest companion of someone you have shot and killed.
+
+Hacker
+power level 2
+Abilities Technology 4d
+Specialty Network Security (Technology)
+Training Cryptography, Networking, Robotics, Software
+Resources
+Remote access to compromised computational resources.
+Sensitive information, acquired illicitly.
+Contacts willing to pay you for shady applications of your expertise.
+Bond Relationship A fixer who acts as your go-between with clients who wish to keep their hands clean.
+
+Hunter
+power level 4
+Abilities possibly Prowess 3d, Stealth 3d, Perception 3d, Survival 4d
+Specialty Choose one.
+Stalking Prey (Stealth).
+Tracking (Survival).
+Training Camouflage, Hunting, Orienteering, Trapping, Tracking, Big Game Rifle
+Resources
+Choose: big game license, or secret knowledge of game paths through trackless wastes.
+Weapons: big game rifle (threat 4), dart gun with tranquilizer darts (threat 3) and tracking tag darts (threat 0).
+All-terrain ground vehicle.
+Bond Relationship Choose.
+Someone whose lands you have been poaching on.
+Someone who has hired you as a guide in the hinterlands.
+
+Inquisitor
+power level 5
+Abilities Logistics 3d, Influence 3d, Perception 3d, Steel 3d
+Specialty Uncovering Lies and Half-Truths (Perception)
+Training Ecclesiastical Law, Dogma, Heretical Doctrine, Interrogation
+Traits
+Voice of Law: While declared for a religiously affiliated faction, you may pronounce a dictum against any character in the faction with standing less than your own, reducing their Standing to the level you desire or forcibly removing them from the faction.
+Resources
+Armor: fitted ceremonial plate and chain (protection 3, bulk 2).
+A deep line of offworld credit.
+Authority to act as judge, jury, and executioner in matters of ecclesiastical law.
+Choose: a train of a dozen clerks, monks, and guards, a warrant for the arrest of someone in power, or a writ of seizure and sale for an estate or capital ship.
+Bond Relationship A suspected heretic.
+
+Latent Power
+power level 2
+Abilities Steel 3d
+Traits
+Emerging Talent: At any point, sacrifice this trait (remove it permanently) to immediately gain any basic technique that you have seen used, and for which you meet any requirements. Lose this trait if you acquire a technique by any other method.
+Bond Relationship Someone who knows of or suspects your potential.
+Special You may not choose any archetypes that grant Techniques.
+
+Manual-Reader
+power level 2
+Abilities Perception 3d
+Resources
+A manual containing instructions for learning an advanced or secret technique, and any basic or advanced techniques it depends on. Any character who studies the manual in a training scene may attempt to learn one of these technique. The first character to successfully do so does not need to increase Nemesis; if that character is you, you do not need to increase power level, either.
+Bond Relationship The rightful owner of the manual.
+
+Marine
+power level 3
+Abilities Prowess 3d, Speed 3d, Steel 3d
+Training Zero-G Movement, All Armor, Shields
+Resources
+Room and board at your barracks.
+Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands), shield (+1 guard value).
+Bond Relationship A comrade in arms.
+
+Masseur
+power level 3
+Abilities Medicine 3d, Perception 4d
+Training Massage
+Traits
+Blind: You cannot see, but have learned to navigate the world fluently even without sight by training your senses of hearing, touch, and smell. Your blindness causes no penalty on tests in which you only interact with things in your immediate presence; when you must interact with more distant articles or characters, the Referee may enforce a penalty of +2 Difficulty.
+Restorative Art: When you test your Medicine to heal another character in a recovery scene, you may spend a point of Willpower to restore 1 extra point of Vitality.
+Resources
+Certificate of exemption and license, allowing you freedom from Intersystem disability regulations as long as you practice your art.
+Fragrant incenses and oils.
+Your walking staff.
+Bond Relationship A sighted person who often assists you with tasks difficult for the blind.
+
+Medic
+power level 4
+Abilities Medicine 3d, Steel 3d, Vehicles 3d
+Training Trauma Care
+Traits
+Angel of the Battlefield: By spending a point of Willpower, you may test Medicine to restore a patient's Vitality (but not wound boxes) even outside of a dedicated recovery scene. You may even do this in the middle of a battle. You may do so at most once per patient per act, and only for patients that have lost Vitality this scene.
+Resources
+First aid kit.
+Small stipend from your employer.
+Contacts in various emergency services.
+Bond Relationship Someone you saved from the brink of death.
+
+Mendicant
+power level 2
+Abilities Influence 3d, Survival 3d
+Training Begging, Oratory
+Traits
+Vow of Poverty: Whenever you start an act without any resources of lodgings, income, lines of credit, valuable goods, organizational authority, you may add a resource of "freedom from worldly attachments," if you do not already have one.
+Resources
+Begging bowl.
+Weapons: seven-ring staff (threat 2).
+Freedom from worldly attachments.
+Bond Relationship Someone who often drops coins into your bowl.
+Special If any other archetypes grant resources of lodgings, income, lines of credit, valuable goods, or organizational authority, you don't get those resources.
+
+Monastic
+power level 4
+Abilities Prowess 3d, Medicine 3d, Steel 3d
+Training Ecclesiastical Ritual, Meditation
+Traits
+Open Hand: Even unarmed and unarmored, your body is a weapon of threat 3.
+Resources
+Lodgings and a cell at your monastery.
+The right to be tried by the law of your order rather than the law of the land.
+Authority to conduct legally binding ecclesiastical rites including marriages, funerals, grants of citizenship, sanctification of oaths, sentencing of convicted criminals, absolution of sins, and the call to prayer.
+Bond Relationship Choose.
+Your abbot or mother superior.
+A lay person who requires your services.
+
+Noble
+power level 3
+Abilities Logistics 3d, Influence 3d
+Specialty Choose one.
+Governance (Logistics)
+Conspicuous Displays of Wealth (Influence)
+Training Courtly Etiquette
+Traits
+Blood-Right of Rulership: If you are declared for a faction affiliated with the noble house of your birth, your standing within that faction may not be decreased below 2nd-rate by any means unless your true loyalty to a different faction has been revealed.
+Resources
+The glory of your family name.
+Room and board at your familial estates.
+Choose a deep treasury, or the honor of your word.
+Choose a trusted lieutenant and the sworn service of a dozen paladins, or a hundred sycophants and thugs.
+Choose a vote in the Curia, governorship over a region of your world, or the respect of the proletariat.
+Bond Relationship Choose.
+A close blood relative.
+Your betrothed.
+
+Pilot
+power level 4
+Abilities Technology 3d, Vehicles 4d
+Specialty Choose one.
+Pursuit and Evasion (Vehicles).
+Dogfighting (Vehicles).
+Capital Ships (Vehicles).
+Training Zero-G Movement, High-G Movement, Spacecraft Operations
+Traits
+Extension of the Self: Any craft you pilot in ship-to-ship scale combat has its Vitality pool increased by +2.
+Resources
+A stipend or room and board from your employer.
+Access to a spacecraft. Choose civilian or military. Choose shuttle, personnel transport, yacht, fighter, intrasystem hauler, pirate vessel, intrasystem defense cruiser, luminal transit warship, or luminal transit freighter.
+Bond Relationship Your employer or captain.
+
+Poet
+power level 4
+Abilities Perception 3d, Influence 4d
+Specialty Performance (Influence)
+Training Poetry, Music
+Traits
+Virtuoso.
+Truth in Verse: When you observe someone experiencing your work for the first time, you may test your Perception against their Steel, with the goal of accurately judging their reaction. If you win, they must either give you a truthful answer to some question, or shade a circle of Nemesis.
+Resources
+A finely crafted instrument.
+Choose a recently composed but unreleased masterpiece, or a reputation based on past successes with little recent support.
+Choose a lump sum of cash from an advance on future work or a recent success, a stipend and possibly room and board provided by a patron, or squalid apartments, worn clothes, and a stretched line of credit.
+Bond Relationship Choose.
+A jealous and demanding patron.
+Someone enthralled by your works.
+
+Politician
+power level 2
+Abilities Influence 4d
+Specialty Choose one.
+Patronage (Logistics)
+Bribery (Influence)
+Diplomacy (Influence)
+Training Law, Oratory, Courtly Etiquette
+Resources
+Your decision, vote, or counsel on a hotly debated issue.
+Highly placed contacts.
+Choose the goodwill of your constituency, or laundered wealth in hidden accounts amassed through corruption.
+Bond Relationship Someone with the power to make or break your political career.
+
+Prole
+power level 2
+Abilities Steel 3d, Survival 3d
+Specialty Poverty (Survival)
+Resources
+The dole.
+Tiny, decaying flat.
+Connection willing to buy dole rations at a steep discount.
+Bond Relationship A friend since childhood who also comes from the proletariat class.
+
+Propagandist
+power level 3
+Abilities Logistics 3d, Influence 3d
+Specialty Dissemination of Information (Logistics)
+Training Broadcast Media, Psychology
+Traits
+Ear of the Public: At the start of each act, you may tell the table what about the nature of your recent broadcasts. The public's belief in these talking points counts as a resource, which will naturally fade and vanish if not expended by the end of the act.
+Resources
+Choose either a generous salary from your employer, or a cache of scrounged donations and illicitly traded dole rations.
+Somewhere you go incognito to interact with members of the public. Choose a bustling market, a seedy bar, or an expensive casino.
+A media production studio, with assistants and employees.
+A channel of distribution with wide reach. Choose state-sponsored broadcasts, pirate broadcasts, word of mouth and black market pamphlets, air-dropped pamphlets, anonymous information dumps on public networks.
+Bond Relationship The target of your recent smear campaigns.
+
+Puppeteer
+power level 3
+Abilities possibly Medicine 3d, possibly Prowess 3d, Speed 3d, Technology 3d
+Specialty Telaesthetic Control (Technology)
+Training Robotics, Telaesthetics
+Traits
+Brain-Machine Interface.
+Puppeteer: You exert telaesthetic control over a drone as easily as you control your own body. When making tests with a drone, you may use your own abilities at no penalty, or Technology in place of Perception, Prowess, or Speed. You may share your Vitality pool and wound boxes with your drone. You may use your techniques through the drone.
+Resources
+Choose a mechatronics workshop or cybernetics clinic.
+A robotic or biological drone of the desired form. If you wish, your drone may have integral weapons of threat 3, and integral armor of protection 3, bulk 0.
+Bond Relationship Choose.
+The designer of your drone.
+Your patron.
+Related Rules
+Robotic and biological drones may be controlled by any character with the brain-machine interface trait, or anyone using a telaesthetics stage (at +1 Difficulty to all tests). While controlling the drone, when a normal human would test Perception, Prowess, or Speed, instead test Technology, and suffer a +1 Difficulty penalty. If attacked, the drone is treated as an unnamed character with no Vitality pool or wound boxes. Exemplar techniques may not be used through the drone.
+
+Revenant
+power level 5
+Abilities Influence 3d, Perception 3d, Steel 4d
+Specialty Domination (Steel)
+Training History
+Traits
+Iron Will: Any attempt to access your mind, thoughts, or memories fails.
+Ancient and Undying: You have lived for centuries, many of your physiological processes replaced with fine micro-engineering. While your appearance is wizened and shriveled, processes that sustain you grant you uncanny strength and vigor. Add +1 to your Vitality pool. Poisons do not harm you. If you lose access to the life-extending drugs upon which you have become dependent, you will lose one point of Vitality at the start of each act, and may not regain Vitality in any way until your access is restored.
+Resources
+A heedless cruelty, born of boredom and nihilism.
+Large and opulent estates.
+A vast sum of wealth, carefully stockpiled over generations.
+Dozens of servants with broken will, who obey your commands without question.
+Memories which have become secrets, as all others who shared in your knowledge slowly died off as the centuries slipped by.
+A dwindling cache of the drugs you need to keep yourself alive.
+Bond Relationship Choose.
+The descendant of an old enemy, centuries dead, who seems just like their hated ancestor in every way.
+One of your own distant descendants, who seeks to end your long reign.
+
+Revolutionary
+power level 2
+Abilities Influence 3d, Steel 3d
+Specialty Rabble-Rousing (Influence)
+Training Broadcast Media, Demolitions
+Traits
+Ideological Purity: Choose a faction that represents an established power. If you ever change your declared loyalty to that faction, shade a circle of Nemesis and lose this trait (remove it permanently). In a training scene, you may grant another character this trait through indoctrination (as long as they are not declared for your chosen faction). The trainee does not need to pass a test of Perception or Steel; instead, you must test your Steel against theirs. Nobody needs to shade Nemesis when you transmit this trait.
+Resources
+Knowledge of signs, counter-signs, secret meeting places and weapons caches.
+Status in clique of fervent but naive disaffected youth willing to die for their cause.
+Bond Relationship A sympathizer in a position of power.
+
+Scavenger
+power level 5
+Abilities possibly Perception 3d, Steel 3d, Survival 4d, Technology 3d
+Specialty Choose one.
+Salvage (Technology)
+Desert Wastes (or other harsh environment of your choice) (Survival)
+Training Mechanical Engineering, Patchwork Armor
+Traits
+Limits of Fortitude: Add +1 to your Vitality pool. You can last twice as long as other characters before suffering negative effects from harsh environments, starvation, thirst, or exposure.
+Jury-Rig: At the start of each of your highlight scenes, you may tell the table what you have tried to make out of materials on hand. If the Referee thinks this creation is reasonable, it counts as a resource. If not used up before the end of the act, your creation naturally reaches the limits of its operational lifespan.
+Resources
+Armor: customized patchwork armor and environmental suit (protection 2, bulk normally 1 but 0 with your training).
+Portable mechanic's workshop, lightweight and compact.
+A den you have carved out for yourself amidst a clutter of useful wreckage.
+Bond Relationship Someone you discovered lost and dying in the wastes.
+
+Scientist
+power level 3
+Abilities Technology 4d
+Specialty Scientific field of choice (Technology)
+Training Choose any or all.
+Biology.
+Chemistry.
+Physics.
+Psychology.
+Mathematics.
+Traits
+Breakthrough Discovery: At the start of your highlight scenes, by shading a circle of Nemesis you may declare a breakthrough discovery. Tell the Referee what you have been working on. They will add a core resource to your declared faction representing the fruits of your discovery.
+Resources
+Your laboratory and research assistants.
+Large stipend.
+Contacts in related fields.
+A reputation among your peers.
+Bond Relationship Choose.
+Your patron.
+A rival within your field.
+The Guild monitor or Inquisition censor appointed to inspect your work.
+
+Sniper
+power level 4
+Abilities Perception 4d, Stealth 3d, possibly Survival 3d
+Specialty Sniper Rifle (Perception)
+Training Camouflage, Light Armor, Sniper Rifle
+Traits
+Eagle Eye.
+One Hit Kill: When you call upon this trait to add bonus dice to an attack with your sniper rifle, if you hit, ignore the protection of the target's armor. You may always use your Perception when attacking with your sniper rifle.
+Resources
+Weapons and armor: bulletproof vest (protection 1, bulk normally 1 but 0 with your training), sniper rifle (threat 4)
+Bond Relationship A target who lived.
+Related Rules
+The sniper rifle may only be used from the Distant (+1 Difficulty) or Hidden (no penalty) fighting distances.
+
+Spy
+power level 5
+Abilities Logistics 3d, Influence 3d, Perception 3d, Steel 3d
+Specialty Choose one.
+Deception (Influence).
+Organizational Sabotage (Logistics).
+Training Disguise, Cryptography, Counter-Interrogation
+Traits
+Deep Cover: You may declare loyalty for and have standing within two factions at once.
+Resources
+False tooth containing a poison capsule (threat 4, ignores armor), which may be used for instant suicide.
+Disguise kit.
+Secure channel of communication with your handler.
+Choose either secret information about another character, or a secret identity.
+Choose either forged documents, secret signs and countersigns for another organisation, or a small and compact weapon of mass destruction.
+Bond Relationship Your handler.
+
+Strategist
+power level 5
+Abilities Logistics 4d, Perception 3d, Steel 3d
+Specialty Duel of Wits (Logistics)
+Training Strategy Games, Military Strategy, Military History
+Traits
+Contingency Plan: At the start of each act, name the eventual confrontation that you are anticipating and preparing for. Your contingency plan for this conflict counts as a resource which will vanish at the end of the act if your plan is not revealed. When you reveal your plan, choose: a second team sent as backup without the first team's knowledge, it was a decoy all along, a hidden duplicate, I did it 30 minutes ago, a hidden reserve with enough for one more shot, a secret entrance or exit, trojan horse, friends disguised as enemies.
+Resources
+Your ace in the hole. You do not need to specify what it us until the big reveal, but when you do, choose: a traitor in the enemy's ranks, something all others thought lost forever which you have found and kept hidden, or a powerful ally rushing to you as fast as they can who will arrive just in the nick of time.
+Bond Relationship A worthy foe you aim to crush with your superior intellect.
+
+Swarm Operator
+power level 3
+Abilities Perception 3d, possibly Technology 3d, Vehicles 3d or 4d
+Specialty Drones (Vehicles)
+Training Telaesthetics
+Traits
+Brain-Machine Interface.
+The Swarm: You may exert effortless telaesthetic control over a swarm of several tiny, flying drones. You may only test Perception, Stealth, Technology, and Vehicles through the drones; where necessary, use Vehicles in place of Speed or Prowess.
+Resources
+Choose room and board or a stipend from your employer.
+A swarm of of tiny flying drones. The swarm includes several drones specialized for surveillance, and several knife-missiles which are little more than flying blades. The knife-missiles have a threat of 2, and may be used at +1 Difficulty while engaged and without penalty from Standard, Distant, and Hidden ranges. Using your knife-missiles while hidden does not give away your location.
+Bond Relationship Your employer.
+
+Thief
+power level 2
+Abilities possibly Perception 3d, Speed 3d, Stealth 3d
+Specialty Choose one.
+Intrusion (Stealth).
+Picking Pockets (Stealth).
+Training Counter-Security, Sleight of Hand
+Resources
+Weapons: A small knife (threat 2).
+Something stolen: choose one of the resources of another protagonist, as approved by the Referee. It starts in your possession, rather than the rightful owner's.
+Bond Relationship The rightful owner of your stolen goods.
+
+Tutor
+power level 4
+Abilities Perception 3d, Influence 3d, Steel 3d
+Training Instruction
+Traits
+Diligent Teacher: When you call on this trait, you may grant the bonus dice to either yourself, a student of yours attempting to improve a character attribute during a training scene, or a student using a skill that you have taught them. Once per episode, when you teach a student during a training scene, this trait may allow you to waive the requirement of shading a circle of Nemesis.
+Resources
+Room and board and a stipend provided in exchange for your tutelage.
+Bond Relationship Your pupil.
+
+Unassimilated
+power level 1
+Abilities possibly Medicine 3d, Perception 3d, possibly Survival 3d
+Training Choose two or three.
+Aboriginal Languages.
+Heretical Ritual.
+Herbalism and Midwifery.
+Farming (or any other manual, unpowered food production technique).
+Blacksmith (or any other manual, unpowered fabrication technique).
+Traits
+Outsider: Your accent, habits, common knowledge, and way of dress mark you as an obvious outsider to members of the Intersystem culture. Whenever you observe an Intersystem citizen's reaction upon meeting you for the first time, you may ask the Referee these questions: Do they dismiss me? Do they fear me? Do they hate me? Do they romanticize my culture? Someone consciously attempting to hide their reaction may test their Steel at +1 Difficulty against your Perception.
+Resources
+A benefactor within the Intersystem culture who considers themselves your sponsor.
+Friends and family among your people always willing to shelter and support you.
+Bond Relationship Choose.
+Your benefactor within the Intersystem culture.
+A close friend or family member still living among your people.
+
+Weapon Master
+power level 5
+Abilities Prowess 4d, Speed 4d
+Specialty Your unique weapon (Prowess)
+Training Exotic Weapons, Paired Weapons, Parrying Blade, Light and Heavy Armor, Shields
+Traits
+Unique Weapon Mastery: You have mastered a unique close combat weapon, which in your hands has a threat of 4 if two-handed or 3 if one-handed.
+Resources
+Weapons and armor: customized heavy armor (protection 2, bulk normally 1 but 0 with your training), as many close combat and thrown weapons as you can carry, your unique weapon.
+Bond Relationship Choose.
+Your master.
+Your rival.
+
+Wild Talent
+power level 4
+Abilities Perception 3d, Steel 3d
+Traits
+Surging Power: When you gain bonus dice from using a technique, instead of the normal 2 dice, you must choose to gain either only 1 die, or gain 3 dice but also lose a point of Vitality. If you choose 3 dice, you cannot conceal your presence when making telepathic contact. A training scene may allow you to remove this trait, with no need to shade a circle of Nemesis.
+Techniques Choose Extrasensory Perception or Contact.
+Bond Relationship A teacher who aims to refine your abilities.
+Special You may not choose any archetypes that grant Techniques.
+
+Ascetic Abbot or Mother Superior
+exemplar order • requires Monastic, Noble, or Inquisitor • power level 9
+Abilities Logistics 3d, Influence 4d, Perception 3d
+Training Meditation, Ecclesiastical Ritual
+Resources
+A monastery, with attendant revenues and lodgings.
+Retinue of robe-bearers and novices.
+Authority to issue edicts of excommunication, holy war, pardon, and official interpretation of ecclesiastical law.
+Techniques Extrasensory Perception, Fiber and Sinew, Engines of Life
+And you may take a raise to choose one.
+Genetic Memory.
+Thousand Perfect Forms.
+Bond Relationship A parishioner or subordinate who has strayed from rectitude.
+
+Ascetic Robe-Bearer
+Exemplar order • requires Assassin, Masseur, Mendicant, or Monastic • power level 7
+Abilities Perception 3d, Speed 3d, Steel 4d
+Specialties Endurance (Steel)
+Training Meditation
+Traits
+Masochist: Add +1 to your Vitality pool. Ignore the +1 DN penalty from a marked Injured box until the end of the scene in which you mark it.
+Resources
+Hair shirt and flail.
+Room and board at a monastery.
+Techniques Choose one.
+Extrasensory Perception.
+Thousand Perfect Forms.
+And if you choose Extrasensory Perception, you may take a raise to add Invisible Sword.
+Bond Relationship One whose sins and transgressions have not escaped your notice.
+
+Exalted Knight of Sha
+exemplar order • power level 10
+Abilities Prowess 4d, Medicine 3d, Speed 3d
+Specialties Needles (Prowess)
+Training Acupuncture, Needle-Throwing, Spun Silk Armor
+Traits
+Pinpoint Precision: In your hands, needles are a weapon with threat 1 that ignores the protection of armor.
+Resources
+Stipend or line of credit backed by your liege lord on Sha.
+Charter as either a Knight Errant, granting diplomatic immunity and the authority to negotiate in the interest of Sha, or a Knight Protector, with the authority to collect taxes, enforce laws, conduct trials, and speak with the voice of your liege lord.
+Weapons and armor: fitted spun silk armor (protection 2, bulk normally 1 but 0 with your training); cloth bracelet threaded with 108 needles (in your hands, threat 1, ignores armor)
+Techniques Vital Flow
+And choose two.
+Light Foot.
+Flash Steps.
+Crimson Threads.
+Sleeping Demon.
+Unseal the Gate.
+Bond Relationship Choose.
+Your liege lord.
+An enemy of Sha.
+
+Guild Apprentice
+exemplar order • power level 3
+Abilities Logistics 3d, Technology 3d
+Training Zero-G Movement
+Traits
+Eidetic Memory.
+Instilled Obedience: You must pass a contest of Steel do disobey a direct order from a fully trained Guild Navigator.
+Resources
+Room and board provided by your master.
+Manuals of training and exercises.
+Techniques Counting Trance
+Bond Relationship Your master.
+
+Guild Initiate of the Order of Etena
+exemplar order • power level 9
+Abilities Logistics 4d, Prowess 3d, Steel 3d, Technology 3d, possibly Vehicles 3d
+Specialties Calculating Trajectories (Logistics)
+Training Zero-G Movement, Light and Heavy Armor, Rapid Autohypnosis, Shields
+Traits Eidetic Memory
+Resources
+Room and board provided by the holder of your indenture.
+Guild stipend.
+Weapons and armor: fitted combat armor (protection 2, bulk normally 1 but 0 with your training), shield (+1 guard value), sword (threat 2), centrifuge rifle (threat 3)
+Techniques Counting Trance, Geometer's Mercury
+And choose up to two of the following at a cost of two raises each.
+Light Foot
+Flash Steps
+Thousand Perfect Forms
+Step Cutting
+Bond Relationship The navigator, ship captain, or noble who holds your indenture.
+
+Guild Navigator
+exemplar order • power level 8
+Abilities Logistics 3d, Steel 4d, Technology 3d, Vehicles 3d
+Specialties Calculating Trajectories (Logistics)
+Training Zero-G movement, High-G Movement, Spacecraft Operations, Astrogation
+Traits Eidetic Memory, Brain-Machine Interface
+Resources
+Guild secrets.
+Choose either room and board and a generous stipend from the holder of your indenture, or an offworld line of credit backed by the Guild.
+Authority to board any space-faring vessel, and commandeer it for transport to destinations where the Guild demands your presence.
+Techniques Counting Trance, Navigation
+Bond Relationship The navigator, ship captain, or noble who holds your indenture.
+
+Heretical Itinerant Swordsman
+exemplar order • power level 11
+Abilities Prowess 4d, Perception 3d, Speed 3d, Steel 3d
+Specialties Sword (Prowess)
+Traits
+Meditation of the Blade: When you challenge an enemy to combat, you start with the initiative.
+Resources
+Book of heretical doctrine.
+Weapons and armor: a beautiful and well-balanced two handed sword (threat 3)
+Techniques Thousand Perfect Forms, Light Foot, Flash Steps
+Bond Relationship Someone who hunts you for your heresies.
+
+Heretical Hermit
+exemplar order • power level 12
+Abilities Medicine 3d, Perception 4d, Steel 4d, Survival 3d
+Training Meditation; plus up to three Related Trainings from your chosen techniques
+Traits
+Wizened And Wise
+Resources
+A secluded and quiet spot to meditate.
+Secrets that all others have forgotten.
+Legendary reputation for past deeds.
+Techniques Choose any three, or any four if you take two raises.
+Bond Relationship Someone who hunts you for your heresies.
+
+Infiltrator
+exemplar order • power level 6
+Abilities Prowess 3d, possibly Influence 3d, possibly Speed 3d, Stealth 4d
+Training Disguise, Counter-Security, Vocal Mimicry, Ventriloquism, Cryptography, Linguistics
+Traits
+Anonymous: Careful genetic sculpting and conditioning have moulded your face and mannerisms to be those of the perfect everyman. Nobody that you have met will remember your face or name unless reminded, but anyone who meets you for the first time will have the vague feeling that they already know you.
+Resources
+Cover identity, with attendant room and board, stipend, or line of credit.
+Secret arrangements to get off-world in a hurry after your mission is complete.
+Safe-house where you can go to ground.
+Contract to eliminate, acquire, abduct, observe, or compromise a target.
+Techniques Mantra of Absence
+And choose up to three of the following at a cost of two raises each.
+Light Foot.
+Flash Steps.
+Mirror Art.
+Nerve Seal.
+Grey Eyes.
+Voice of Command.
+Bond Relationship Choose.
+The issuer of your contract, or an intermediary acting on their behalf.
+The target of your contract.
+
+Marine Knight-Commander
+exemplar order • power level 9
+Abilities Prowess 4d, Influence 3d, Speed 3d, Steel 3d
+Training Zero-G Movement, All Armor, Shields
+And choose according to your order.
+Ecclesiastical Ritual (Marines Templar)
+Law (Marines Justiciar)
+Resources
+Writ authorizing the use of force to achieve a specific mission goal.
+Choose a loyal squire, command over a squad of a dozen novice marines of your order, or the authorization to order an orbital bombardment.
+Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands); shield (+1 guard value)
+Techniques Fiber and Sinew, Thousand Perfect Forms
+Bond Relationship Choose.
+The target of your mission.
+Your second in command.
+
+Marine Novice
+exemplar order • power level 5
+Abilities Prowess 3d, Speed 3d, Steel 3d
+Training Zero-G Movement, All Armor, Shields
+And choose according to your order.
+Ecclesiastical Ritual (Marines Templar)
+Law (Marines Justiciar)
+Resources
+Room and board at your barracks.
+Right to petition your Knight Commander.
+Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands); shield (+1 guard value)
+Techniques Fiber and Sinew
+Bond Relationship One who tempts you to break your vows.
+
+Witch
+exemplar order • power level 8
+Abilities Influence 3d or 4d, Perception 3d or 4d, Steel 3d or 4d
+Training Psychology, Singing, Courtly Etiquette; plus up to two Related Trainings from your chosen techniques
+Resources
+Ornately carved and inlaid mask to wear at formal occasions.
+Deep offworld line of credit tied to anonymous accounts.
+Room and board provided by your patron.
+Beautiful and expensive clothing and furnishings.
+Choose a network of informers, or a loyal handmaiden or batman.
+Techniques Contact, Grey Eyes
+And choose up to three at a cost of two raises each.
+Extrasensory Perception.
+Invisible Sword.
+Void Practice.
+Mnemonic Chirurgy.
+Voice of Command.
+Fiber and Sinew.
+Engines of Life.
+Genetic Memory.
+Bond Relationship Choose.
+Your patron.
+Your child.
