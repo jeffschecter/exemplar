@@ -160,7 +160,7 @@ class Archetype(object):
       for entry in entries:
         possibly = entry.startswith("possibly")
         ability, _, raw_dice = entry.rpartition("possibly ")[2].partition(" ")
-        self.abilities[ability] = raw_dice
+        self.abilities[ability] = ("possibly " * possibly) + raw_dice
     
     elif self._current_field == "Specialty":
       if not self._maybe_handle_choice(line, self._assigner("specialty")):
