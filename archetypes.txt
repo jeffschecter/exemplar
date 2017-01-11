@@ -278,6 +278,18 @@ Bond Relationship Choose.
 Someone whose lands you have been poaching on.
 Someone who has hired you as a guide in the hinterlands.
 
+Ingenue
+power level 1
+Abilities Influence 3d, possibly Perception 3d, possibly Steel 3d
+Specialty Puppy Dog Eyes (Influence)
+Traits
+Naive: You must forfeit any contest of Steel against Steel, or of your Perception or Steel against another's Influence. Your opponent achieves their goal without a roll. Whenever you do so, refresh Willpower up to 2, or 3 if your opponent is one of your bonds. If you ever choose not to forfeit such a test, lose this trait (remove it permanently).
+Resources
+The presumption of innocence.
+A gaggle of suitors who desire to impress you and earn your affections.
+Room and board provided by a parent or other guardian figure.
+Bond Relationship Someone you trust and love who is taking advantage of you.
+
 Inquisitor
 power level 5
 Abilities Logistics 3d, Influence 3d, Perception 3d, Steel 3d
@@ -291,14 +303,6 @@ A deep line of offworld credit.
 Authority to act as judge, jury, and executioner in matters of ecclesiastical law.
 Choose: a train of a dozen clerks, monks, and guards, a warrant for the arrest of someone in power, or a writ of seizure and sale for an estate or capital ship.
 Bond Relationship A suspected heretic.
-
-Latent Power
-power level 2
-Abilities Steel 3d
-Traits
-Emerging Talent: At any point, sacrifice this trait (remove it permanently) to immediately gain any basic technique that you have seen used, and for which you meet any requirements. Lose this trait if you acquire a technique by any other method.
-Bond Relationship Someone who knows of or suspects your potential.
-Special You may not choose any archetypes that grant Techniques.
 
 Manual-Reader
 power level 2
@@ -352,7 +356,7 @@ Begging bowl.
 Weapons: seven-ring staff (threat 2).
 Freedom from worldly attachments.
 Bond Relationship Someone who often drops coins into your bowl.
-Special If any other archetypes grant resources of lodgings, income, lines of credit, valuable goods, or organizational authority, you don't get those resources.
+Special Rules If any other archetypes grant resources of lodgings, income, lines of credit, valuable goods, or organizational authority, you don't get those resources.
 
 Monastic
 power level 4
@@ -650,15 +654,6 @@ Bond Relationship Choose.
 Your master.
 Your rival.
 
-Wild Talent
-power level 4
-Abilities Perception 3d, Steel 3d
-Traits
-Surging Power: When you gain bonus dice from using a technique, instead of the normal 2 dice, you must choose to gain either only 1 die, or gain 3 dice but also lose a point of Vitality. If you choose 3 dice, you cannot conceal your presence when making telepathic contact. A training scene may allow you to remove this trait, with no need to shade a circle of Nemesis.
-Techniques Choose Extrasensory Perception or Contact.
-Bond Relationship A teacher who aims to refine your abilities.
-Special You may not choose any archetypes that grant Techniques.
-
 Ascetic Abbot or Mother Superior
 exemplar order • requires Monastic, Noble, or Inquisitor • power level 9
 Abilities Logistics 3d, Influence 4d, Perception 3d
@@ -695,7 +690,7 @@ Abilities Prowess 4d, Medicine 3d, Speed 3d
 Specialties Needles (Prowess)
 Training Acupuncture, Needle-Throwing, Spun Silk Armor
 Traits
-Pinpoint Precision: In your hands, needles are a weapon with threat 1 that ignores the protection of armor.
+Pinpoint Precision: In your hands, needles are a close combat and thrown weapon with threat 1 that ignores the protection of armor.
 Resources
 Stipend or line of credit backed by your liege lord on Sha.
 Charter as either a Knight Errant, granting diplomatic immunity and the authority to negotiate in the interest of Sha, or a Knight Protector, with the authority to collect taxes, enforce laws, conduct trials, and speak with the voice of your liege lord.
@@ -745,7 +740,7 @@ Bond Relationship The navigator, ship captain, or noble who holds your indenture
 Guild Navigator
 exemplar order • power level 8
 Abilities Logistics 3d, Steel 4d, Technology 3d, Vehicles 3d
-Specialties Calculating Trajectories (Logistics)
+Specialties Computation Fugue (Steel)
 Training Zero-G movement, High-G Movement, Spacecraft Operations, Astrogation
 Traits Eidetic Memory, Brain-Machine Interface
 Resources
@@ -803,6 +798,13 @@ Bond Relationship Choose.
 The issuer of your contract, or an intermediary acting on their behalf.
 The target of your contract.
 
+Latent Power
+exemplar order • power level 2
+Abilities Steel 3d
+Traits
+Emerging Talent: At any point, sacrifice this trait (remove it permanently) to immediately gain any basic technique that you have seen used, and for which you meet any requirements. Lose this trait if you acquire a technique by any other method.
+Bond Relationship Someone who knows of or suspects your potential.
+
 Marine Knight-Commander
 exemplar order • power level 9
 Abilities Prowess 4d, Influence 3d, Speed 3d, Steel 3d
@@ -832,6 +834,14 @@ Right to petition your Knight Commander.
 Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands); shield (+1 guard value)
 Techniques Fiber and Sinew
 Bond Relationship One who tempts you to break your vows.
+
+Wild Talent
+Exemplar order • power level 4
+Abilities Perception 3d, Steel 3d
+Traits
+Surging Power: When you gain bonus dice from using a technique, instead of the normal 2 dice, you must choose to gain either only 1 die, or gain 3 dice but also lose a point of Vitality. If you choose 3 dice, you cannot conceal your presence when making telepathic contact. A training scene may allow you to remove this trait, with no need to shade a circle of Nemesis.
+Techniques Choose Extrasensory Perception or Contact.
+Bond Relationship A teacher who aims to refine your abilities.
 
 Witch
 exemplar order • power level 8

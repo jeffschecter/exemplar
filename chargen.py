@@ -71,6 +71,7 @@ class Archetype(object):
     self.resources = []
     self.techniques = []
     self.bond = None
+    self.special_rules = None
     
     self._current_field = "Name"
     self._in_choice = False
@@ -128,8 +129,8 @@ class Archetype(object):
       
   def _parse_line(self, line):
     field_indicators = set([
-        "Abilities", "Specialty", "Training", "Traits",
-        "Resources", "Techniques", "Bond Relationship"])
+        "Abilities", "Specialty", "Training", "Traits", "Resources",
+        "Techniques", "Bond Relationship", "Special Rules", "Related Rules"])
     for fi in field_indicators:
       if line.startswith(fi) or line.startswith(fi + " "):
         self._choice_end_callback("\n".join(self._choice_lines))
@@ -186,6 +187,12 @@ class Archetype(object):
       if not self._maybe_handle_choice(line, self._assigner("bond")):
         self.bond = line
       self._choice_end_callback("\n".join(self._choice_lines))
+      self._choice_lines = []
+      self._coice_end_callback = lambda x: None
+      self._in_choice = False
+
+    elif self._current_field in ("Special Rules", "Related Rules"):
+      self.special_rules = line
 
     else:
       self._unparsed_lines.append(line)
@@ -204,22 +211,34 @@ class Character(object):
     self.resources = self._flatten("resources")
     self.techniques = self._flatten("techniques")
     self.bonds = self._flatten("bond")
+    self.special_rules = self._flatten("special_rules")
     self.power_level = sum([a.power_level for a in self.archetypes])
+    self.legal = (
+      sum([a.is_order for a in self.archetypes]) <= 1 and
+      len(self.archetypes) <= 4 and
+      len(self.archetypes) >=2)
   
   def __str__(self):
-    return "\n".join([
+    return "\n".join(line for line in [
         "ARCHETYPES: " + ", ".join([a.name for a in self.archetypes]),
         "POWER LEVEL: {} plus raises".format(self.power_level),
+        "*** THIS IS NOT A LEGAL CHARACTER! ***" * (1 - self.legal),
         "\nABILITIES:\n    " + "\n    ".join([
             "{ab}: {rat}".format(ab=ab, rat=rat)
             for ab, rat in sorted(self.abilities.items())]),
-        "\nSPECIALTIES: (max of one per Ability)\n" + format_list(
-            self.specialties),
-        "\nTRAINING:\n" + format_list(self.training),
-        "\nTRAITS:\n" + format_list(self.traits),
+        ("\nSPECIALTIES: (max of one per Ability)\n" + format_list(
+            self.specialties)) * min(len(self.specialties), 1),
+        ("\nTRAINING:\n" + format_list(self.training)) * min(len(
+            self.training), 1),
+        ("\nTRAITS:\n" + format_list(self.traits)) * min(len(
+            self.traits), 1),
         "\nRESOURCES:\n" + format_list(self.resources),
-        "\nTECHNIQUES:\n" + format_list(self.techniques),
-        "\nBOND RELATIONSHIPS:\n" + format_list(self.bonds)])
+        ("\nTECHNIQUES:\n" + format_list(self.techniques)) * min(len(
+            self.techniques), 1),
+        "\nBOND RELATIONSHIPS:\n" + format_list(self.bonds),
+        ("\nSPECIAL RULES:\n" + format_list(self.special_rules)) * min(len(
+            self.special_rules), 1)
+        ] if line)
   
   def _determine_archetypes(self, arch_names,):
     if arch_names:
