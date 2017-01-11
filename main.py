@@ -55,12 +55,10 @@ Overlapping grants of character attributes are handled as follows:
 @app.route('/')
 def random_character():
   accept = False
-  trials = 0
   while not accept:
     ch = chargen.Character()
-    trials += 1
     accept = ch.legal and ch.power_level >= 10 and ch.power_level <= 20
-  text = "{}\n{}{}".format(trials, ch, EXPLANATORY)
+  text = "{}{}".format(ch, EXPLANATORY)
   return Response(text, mimetype="text/plain")
 
 
