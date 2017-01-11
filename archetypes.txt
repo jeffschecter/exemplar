@@ -85,6 +85,8 @@ Specialty Choose one.
 Fleet Tactics (Logistics).
 Ship Command (Influence).
 Training Zero-G Movement, High-G Movement, Spacecraft Operations
+Traits
+Extension of the Self: Whenever under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
 Resources
 Command of a spacecraft. Choose: a stolen intrasystem hauler given ship to ship weapons and a crew of brigands, a mid-sized intrasystem craft which you own outright, a luminal transit freighter owned and chartered by the Guild, an intrasystem defense cruiser owned by a planetary power, or a luminal transit warship of an interplanetary navy.
 The loyalty and obedience of your ship's crew.
@@ -314,7 +316,7 @@ Bond Relationship The rightful owner of the manual.
 Marine
 power level 3
 Abilities Prowess 3d, Speed 3d, Steel 3d
-Training Zero-G Movement, All Armor, Shields
+Training Zero-G Movement, All Armor, Shields, Platoon Tactics
 Resources
 Room and board at your barracks.
 Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands), shield (+1 guard value).
@@ -400,7 +402,7 @@ Dogfighting (Vehicles).
 Capital Ships (Vehicles).
 Training Zero-G Movement, High-G Movement, Spacecraft Operations
 Traits
-Extension of the Self: Any craft you pilot in ship-to-ship scale combat has its Vitality pool increased by +2.
+Extension of the Self: Whenever under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
 Resources
 A stipend or room and board from your employer.
 Access to a spacecraft. Choose civilian or military. Choose shuttle, personnel transport, yacht, fighter, intrasystem hauler, pirate vessel, intrasystem defense cruiser, luminal transit warship, or luminal transit freighter.
@@ -824,7 +826,7 @@ Your second in command.
 Marine Novice
 exemplar order • power level 5
 Abilities Prowess 3d, Speed 3d, Steel 3d
-Training Zero-G Movement, All Armor, Shields
+Training Zero-G Movement, All Armor, Shields, Platoon Tactics
 And choose according to your order.
 Ecclesiastical Ritual (Marines Templar)
 Law (Marines Justiciar)

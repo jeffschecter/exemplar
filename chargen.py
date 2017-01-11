@@ -85,6 +85,10 @@ class Archetype(object):
     while lines:
       self._parse_line(lines[0].strip())
       lines = lines[1:]
+    self._choice_end_callback("\n".join(self._choice_lines))
+    self._choice_lines = []
+    self._coice_end_callback = lambda x: None
+    self._in_choice = False
   
   def _maybe_handle_choice(self, line, maybe_new_callback):
     # Return True if the line was totally handled and
@@ -186,10 +190,6 @@ class Archetype(object):
     elif self._current_field == "Bond Relationship":
       if not self._maybe_handle_choice(line, self._assigner("bond")):
         self.bond = line
-      self._choice_end_callback("\n".join(self._choice_lines))
-      self._choice_lines = []
-      self._coice_end_callback = lambda x: None
-      self._in_choice = False
 
     elif self._current_field in ("Special Rules", "Related Rules"):
       self.special_rules = line
