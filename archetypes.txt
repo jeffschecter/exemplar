@@ -78,6 +78,23 @@ Restraints.
 Jet pack.
 Bond Relationship Your bounty.
 
+Bridge Officer
+power level 3
+Abilities Logistics 3d, Technology 3d, possibly Vehicles 3d
+Specialty Choose one.
+Damage Control (Logistics)
+Signals Warfare (Technology)
+Gunnery (Technology)
+Training Zero-G Movement, High-G Movement, Spacecraft Operations
+Traits
+Efficient Multitasking: In a large scale conflict, each combat turn you may both roll a test and also count as help for another character's test, contributing a bonus die to someone else's roll.
+Resources
+Quarters aboard your ship.
+Choose a regular stipend or a share of plunder and profits.
+Irreplaceable knowledge of the ins and outs of your ship, and the particular systems for which you are responsible.
+A trick to squeeze out a little extra performance—but it will only work once.
+Bond Relationship The captain of your ship.
+
 Captain
 power level 4
 Abilities Logistics 3d, Influence 3d, Vehicles 3d
@@ -86,12 +103,12 @@ Fleet Tactics (Logistics).
 Ship Command (Influence).
 Training Zero-G Movement, High-G Movement, Spacecraft Operations
 Traits
-Extension of the Self: Whenever under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
+Extension of the Self: Whenever a vehicle under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
 Resources
 Command of a spacecraft. Choose: a stolen intrasystem hauler given ship to ship weapons and a crew of brigands, a mid-sized intrasystem craft which you own outright, a luminal transit freighter owned and chartered by the Guild, an intrasystem defense cruiser owned by a planetary power, or a luminal transit warship of an interplanetary navy.
 The loyalty and obedience of your ship's crew.
 Bond Relationship Choose.
-The owner of your ship.
+The owner, admiral, or director with higher authority over your ship.
 An officer of the ship under your command.
 
 Chimaera
@@ -140,6 +157,24 @@ Bond Relationship Choose.
 Your clone-progenitor, the source of your genetic material.
 Your owner.
 
+Commando
+power level 5
+Abilities Perception 3d, Speed 3d, Stealth 3d, Survival 3d, possibly Technology 3d
+Specialty Choose one.
+Spotter (Perception)
+Terrain Obstacles (Speed)
+Ambush (Stealth)
+Orienteering (Survival)
+Demolitions (Technology)
+Training Platoon Tactics, Camouflage, Parachute
+Traits
+Teamwork: When you call on this trait, you may give the bonus dice either to yourself or to an ally who you are assisting.
+Resources
+Room and board at your barracks.
+An operational plan, rehearsed until the actions have become rote.
+Survival gear.
+Bond Relationship A fellow survivor of an operation that turned into a bloodbath.
+
 Conditioned
 power level 1
 Abilities Steel 4d
@@ -184,8 +219,8 @@ Your partner at the department.
 Doctor
 power level 3
 Abilities Medicine 4d, possibly Technology 3d
-Specialty Choose one.
-Trauma Care (Medicine).
+Specialty Choose.
+Emergency Care (Medicine).
 Cybernetics (Medicine).
 Psychological Conditioning (Medicine).
 Training Choose any or all.
@@ -194,6 +229,7 @@ Surgery.
 Psychology.
 Biomedical Engineering.
 Epidemiology.
+Trauma Care.
 Traits Choose one, determined by the chosen specialty in Medicine.
 Healing Touch: When you test Medicine to help another character recover, the base Difficulty from marked wound boxes is halved (rounding down). At the same time, if your test succeeds, you may spend any amount of Willpower to let the patient recover an equal amount of Vitality. Paired with Trauma Care.
 Cyberneticist: In a training scene, you may grant other characters traits from the Cyborg archetype. The patient does not need to pass a test of Perception or Steel; instead, you test your Medicine.(Paired with Cybernetics.
@@ -276,6 +312,7 @@ Resources
 Choose: big game license, or secret knowledge of game paths through trackless wastes.
 Weapons: big game rifle (threat 4), dart gun with tranquilizer darts (threat 3) and tracking tag darts (threat 0).
 All-terrain ground vehicle.
+Survival gear.
 Bond Relationship Choose.
 Someone whose lands you have been poaching on.
 Someone who has hired you as a guide in the hinterlands.
@@ -402,7 +439,7 @@ Dogfighting (Vehicles).
 Capital Ships (Vehicles).
 Training Zero-G Movement, High-G Movement, Spacecraft Operations
 Traits
-Extension of the Self: Whenever under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
+Extension of the Self: Whenever a vehicle under your control takes damage in a larger scale conflict, you may choose to absorb the damage as Vitality loss, rather than let it cripple the ship.
 Resources
 A stipend or room and board from your employer.
 Access to a spacecraft. Choose civilian or military. Choose shuttle, personnel transport, yacht, fighter, intrasystem hauler, pirate vessel, intrasystem defense cruiser, luminal transit warship, or luminal transit freighter.
@@ -524,6 +561,7 @@ Resources
 Armor: customized patchwork armor and environmental suit (protection 2, bulk normally 1 but 0 with your training).
 Portable mechanic's workshop, lightweight and compact.
 A den you have carved out for yourself amidst a clutter of useful wreckage.
+Custom survival gear, rugged, light, effective, and cobbled together.
 Bond Relationship Someone you discovered lost and dying in the wastes.
 
 Scientist
@@ -578,6 +616,22 @@ Secure channel of communication with your handler.
 Choose either secret information about another character, or a secret identity.
 Choose either forged documents, secret signs and countersigns for another organisation, or a small and compact weapon of mass destruction.
 Bond Relationship Your handler.
+
+Squad Leader
+power level 4
+Abilities Influence 3d, Logistics 3d, Perception 3d
+Specialty Choose.
+Rally the Troops (Influence)
+Coordinated Operations (Logistics)
+Training Platoon Tactics, Spacecraft Operations, Zero-G Movement, High-G Movement
+Traits
+First Into the Breach: Whenever a platoon of infantry or squadron of fighters under your command takes damage in a larger scale combat, you may absorb the damage as Vitality loss rather than allow it to knock members of your squad out of the fight.
+Resources
+The unit under your command. Choose a platoon of infantry or a squadron of fighters.
+Choose the respect and sponsorship of your commanding officer, or a trusted and capable second in command.
+Bond Relationship Choose.
+Your second in command.
+Your commanding officer.
 
 Strategist
 power level 5
@@ -686,6 +740,23 @@ Thousand Perfect Forms.
 And if you choose Extrasensory Perception, you may take a raise to add Invisible Sword.
 Bond Relationship One whose sins and transgressions have not escaped your notice.
 
+Breeding Program Scion
+Exemplar order • power level 5
+Abilities Perception 3d, Steel 3d
+Training Rapid Holistic Impression Receptivity
+Traits
+Genetically Perfected: You may engage in physical exertion for twice as long without tiring, have twice the lifespan of most humans, immunity to common illnesses, and almost no need for sleep. Add +1 to your Vitality pool.
+Resources
+An ordained role in the great breeding program.
+Fragmentary images and compulsions surfaced in your mind by a nascent genetic memory.
+Techniques Grey Eyes
+And choose any or all of the following, at a cost of two raises each.
+Fiber and Sinew
+Voice of Command
+Bond Relationship Choose.
+The witch who gestated you and tutored you in their traditions.
+Your foster parent.
+
 Exalted Knight of Sha
 exemplar order • power level 10
 Abilities Prowess 4d, Medicine 3d, Speed 3d
@@ -725,12 +796,12 @@ Guild Initiate of the Order of Etena
 exemplar order • power level 9
 Abilities Logistics 4d, Prowess 3d, Steel 3d, Technology 3d, possibly Vehicles 3d
 Specialties Calculating Trajectories (Logistics)
-Training Zero-G Movement, Light and Heavy Armor, Rapid Autohypnosis, Shields
+Training Zero-G Movement, Light and Heavy Armor, Rapid Autohypnosis
 Traits Eidetic Memory
 Resources
 Room and board provided by the holder of your indenture.
 Guild stipend.
-Weapons and armor: fitted combat armor (protection 2, bulk normally 1 but 0 with your training), shield (+1 guard value), sword (threat 2), centrifuge rifle (threat 3)
+Weapons and armor: fitted combat armor (protection 2, bulk normally 1 but 0 with your training), two handed diamond sword (threat 3), centrifuge rifle (threat 3)
 Techniques Counting Trance, Geometer's Mercury
 And choose up to two of the following at a cost of two raises each.
 Light Foot
