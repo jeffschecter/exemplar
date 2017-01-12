@@ -740,6 +740,24 @@ Thousand Perfect Forms.
 And if you choose Extrasensory Perception, you may take a raise to add Invisible Sword.
 Bond Relationship One whose sins and transgressions have not escaped your notice.
 
+Ascetic Deodand
+exemplar order • power level 6
+Abilities Perception 4d, Steel 3d
+Specialties Archery (Perception)
+Training Meditation, Empathy, Ecclesiastical Ritual, Bowyer, Fletcher
+Traits
+Sooth Sayer: If you ever tell a lie, commit any carnal act, imbibe alcohol or other intoxicants, or willingly mutilate your body or genome, shade a circle of Nemesis and lose this trait (remove it for ever). Any test made to deceive you is rolled at +1 Difficulty.
+Reflex Shooting: You draw and release your bow in a single motion, finding the target by instinct rather than sight. You may shoot blind without penalty. You may always test your Pereception to land an arrow with your bow. You may always add bonus dice from your Extrasensory Perception technique when testing Perception with your bow.
+Resources
+Sanctified purity.
+Room and board at the shrine.
+Authority to pronounce a place or thing ritually clean or unclean.
+Weapons: bow and arrow (threat 2) and long dagger (threat 2), both beautifully decorated ritual objects.
+Remit to leave the shrine for a single specific purpose. Choose: to bear messages from the priest, to collect taxes, to perform rituals of purification and exorcism, to carry out executions.
+Techniques Extrasensory Perception
+Bond Relationship Someone who has shown you a world beyond the gates of your garden.
+Special Rules A deodand is a young child surrendered unto the church, usually a young girl given to the shrine as a child. The deodand may not leave the shrine except on church business. If any other archetypes grant resources of room and board, a stipend, a stockpile of wealth, or a line of credit, you do not receive those resources.
+
 Breeding Program Scion
 exemplar order • power level 5
 Abilities Perception 3d, Steel 3d
