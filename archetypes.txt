@@ -1,4 +1,4 @@
-Artisan
+EArtisan
 power level 2
 Abilities Technology 3d
 Specialty The Creation of Beautiful Things (Technology)
@@ -711,7 +711,7 @@ Your master.
 Your rival.
 
 Ascetic Abbot or Mother Superior
-exemplar order • requires Monastic, Noble, or Inquisitor • power level 9
+exemplar order • power level 9
 Abilities Logistics 3d, Influence 4d, Perception 3d
 Training Meditation, Ecclesiastical Ritual
 Resources
@@ -725,7 +725,7 @@ Thousand Perfect Forms.
 Bond Relationship A parishioner or subordinate who has strayed from rectitude.
 
 Ascetic Robe-Bearer
-Exemplar order • requires Assassin, Masseur, Mendicant, or Monastic • power level 7
+exemplar order • power level 7
 Abilities Perception 3d, Speed 3d, Steel 4d
 Specialties Endurance (Steel)
 Training Meditation
@@ -741,7 +741,7 @@ And if you choose Extrasensory Perception, you may take a raise to add Invisible
 Bond Relationship One whose sins and transgressions have not escaped your notice.
 
 Breeding Program Scion
-Exemplar order • power level 5
+exemplar order • power level 5
 Abilities Perception 3d, Steel 3d
 Training Rapid Holistic Impression Receptivity
 Traits
@@ -909,7 +909,7 @@ Techniques Fiber and Sinew
 Bond Relationship One who tempts you to break your vows.
 
 Wild Talent
-Exemplar order • power level 4
+exemplar order • power level 4
 Abilities Perception 3d, Steel 3d
 Traits
 Surging Power: When you gain bonus dice from using a technique, instead of the normal 2 dice, you must choose to gain either only 1 die, or gain 3 dice but also lose a point of Vitality. If you choose 3 dice, you cannot conceal your presence when making telepathic contact. A training scene may allow you to remove this trait, with no need to shade a circle of Nemesis.
