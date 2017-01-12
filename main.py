@@ -64,9 +64,12 @@ def random_character():
 
 @app.route('/list')
 def list_archetypes():
+  sorted_archs = sorted(
+      chargen.Character.ARCHETYPES,
+      key=lambda a: (a.power_level, a.name))
   text = "\n".join([
     "Power Level {}".format(a.power_level).ljust(20) + a.name
-    for a in chargen.Character.ARCHETYPES])
+    for a in sorted_archs])
   return Response(text, mimetype="text/plain")
 
 
