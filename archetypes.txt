@@ -738,7 +738,7 @@ Bond Relationship A parishioner or subordinate who has strayed from rectitude.
 Ascetic Robe-Bearer
 exemplar order • power level 7
 Abilities Perception 3d, Speed 3d, Steel 4d
-Specialties Endurance (Steel)
+Specialty Endurance (Steel)
 Training Meditation
 Traits
 Masochist: Add +1 to your Vitality pool. Ignore the +1 DN penalty from a marked Injured box until the end of the scene in which you mark it.
@@ -754,7 +754,7 @@ Bond Relationship One whose sins and transgressions have not escaped your notice
 Ascetic Deodand
 exemplar order • power level 6
 Abilities Perception 4d, Steel 3d
-Specialties Archery (Perception)
+Specialty Archery (Perception)
 Training Meditation, Empathy, Ecclesiastical Ritual, Bowyer, Fletcher
 Traits
 Sooth Sayer: If you ever tell a lie, commit any carnal act, imbibe alcohol or other intoxicants, or willingly mutilate your body or genome, shade a circle of Nemesis and lose this trait (remove it for ever). Any test made to deceive you is rolled at +1 Difficulty.
@@ -767,7 +767,7 @@ Weapons: bow and arrow (threat 2) and long dagger (threat 2), both beautifully d
 Remit to leave the shrine for a single specific purpose. Choose: to bear messages from the priest, to collect taxes, to perform rituals of purification and exorcism, to carry out executions.
 Techniques Extrasensory Perception
 Bond Relationship Someone who has shown you a world beyond the gates of your garden.
-Special Rules A deodand is a young child surrendered unto the church, usually a young girl given to the shrine as a child. The deodand may not leave the shrine except on church business. If any other archetypes grant resources of room and board, a stipend, a stockpile of wealth, or a line of credit, you do not receive those resources.
+Special Rules A deodand is a young child surrendered unto the church, usually a maiden given to the shrine as a child. The deodand may not leave the shrine except on church business. If any other archetypes grant resources of room and board, a stipend, a stockpile of wealth, or a line of credit, you do not receive those resources.
 
 Breeding Program Scion
 exemplar order • power level 5
@@ -789,7 +789,7 @@ Your foster parent.
 Exalted Knight of Sha
 exemplar order • power level 10
 Abilities Prowess 4d, Medicine 3d, Speed 3d
-Specialties Needles (Prowess)
+Specialty Needles (Prowess)
 Training Acupuncture, Needle-Throwing, Spun Silk Armor
 Traits
 Pinpoint Precision: In your hands, needles are a close combat and thrown weapon with threat 1 that ignores the protection of armor.
@@ -824,7 +824,7 @@ Bond Relationship Your master.
 Guild Initiate of the Order of Etena
 exemplar order • power level 9
 Abilities Logistics 4d, Prowess 3d, Steel 3d, Technology 3d, possibly Vehicles 3d
-Specialties Calculating Trajectories (Logistics)
+Specialty Calculating Trajectories (Logistics)
 Training Zero-G Movement, Light and Heavy Armor, Rapid Autohypnosis
 Traits Eidetic Memory
 Resources
@@ -842,7 +842,7 @@ Bond Relationship The navigator, ship captain, or noble who holds your indenture
 Guild Navigator
 exemplar order • power level 8
 Abilities Logistics 3d, Steel 4d, Technology 3d, Vehicles 3d
-Specialties Computation Fugue (Steel)
+Specialty Computation Fugue (Steel)
 Training Zero-G movement, High-G Movement, Spacecraft Operations, Astrogation
 Traits Eidetic Memory, Brain-Machine Interface
 Resources
@@ -855,7 +855,7 @@ Bond Relationship The navigator, ship captain, or noble who holds your indenture
 Heretical Itinerant Swordsman
 exemplar order • power level 11
 Abilities Prowess 4d, Perception 3d, Speed 3d, Steel 3d
-Specialties Sword (Prowess)
+Specialty Sword (Prowess)
 Traits
 Meditation of the Blade: When you challenge an enemy to combat, you start with the initiative.
 Resources
