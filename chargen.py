@@ -60,6 +60,7 @@ def format_list(l):
 class Archetype(object):
     
   def __init__(self, s):
+    self.raw_text = "".join(ch for ch in s if ord(ch) < 128).lower()
     self.name = None
     self.is_order = False
     self.requirements = None

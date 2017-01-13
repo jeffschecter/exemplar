@@ -1,6 +1,6 @@
 Armored
 power level 3
-Abilities Prowess 3d, Vehicles 3d, possiby Technology 3d
+Abilities Prowess 3d, Vehicles 3d, possibly Technology 3d
 Specialty Exoskeleton (Vehicles)
 Training All Armor, Powered Exoskeleton
 Traits
@@ -122,6 +122,21 @@ Bond Relationship Choose.
 The owner, admiral, or director with higher authority over your ship.
 An officer of the ship under your command.
 
+Chattel
+power level 2
+Abilities Perception 3d, Stealth 3d
+Specialty Beneath Notice (Stealth)
+Training Domestic Labor, Back-Breaking Labor
+Traits
+Broken Spirit: Disobeying your owner or their appointed overseers requires victory in a contest of Steel. If you choose to forfeit this test, refresh Willpower up to 1. If you ever win such a contest, you may sacrifice this trait (remove it permanently) in order to add a die of Steel (do not shade Nemesis, but increase your power level by 1 as normal).
+Resources
+Subdermal implants marking you as property and broadcasting your location to your owner; possibly disabled.
+Choose either meager room and board at your owner's estates, or a reward for your recapture and manhunters on your trail.
+Hatred, resentment, and fear for your owner, possibly intermingled with a touch of the fondness that arises between prisoner and jailer from long exposure and familiarity.
+Bond Relationship Choose.
+Your reason for running away.
+Your owner.
+
 Chimaera
 power level 4
 Abilities Perception 3d, Speed 3d, possibly Survival 3d
@@ -162,7 +177,7 @@ power level 1
 Abilities Steel 3d
 Traits Choose at least one.
 Child in the Body of an Adult.
-Doppelgänger: You have been extensively trained and sculpted to be an exact duplicate of your clone-progenitor, to the extent that uncovering your true identity is impossible without putting you to the question or catching you in an inconsistency.
+Doppelgänger: You have been extensively trained and sculpted to be a near physical and behavioral duplicate of your clone-progenitor, to the extent that uncovering your true identity is impossible without putting you to the question or catching you in an inconsistency.
 Genetically Perfected: You may engage in physical exertion for twice as long without tiring, have twice the lifespan of most humans, immunity to common illnesses, and almost no need for sleep. Add +1 to your Vitality pool.
 Bond Relationship Choose.
 Your clone-progenitor, the source of your genetic material.
@@ -192,7 +207,11 @@ Abilities Steel 4d
 Traits
 Ban: There are certain actions which are impossible for you to take, memories impossible for you to recall, and thoughts impossible for you to think.
 Trigger: When a special code phrase is spoken, you will unhesitatingly and without thought perform some action without hesitation, as determined by your conditioning.
-Bond Relationship The person who put you through the conditioning process.
+Resources
+The absolute trust, from those that know of it, that you will behave according to your conditioning.
+Bond Relationship Choose.
+Your owner, who had you conditioned or purchased you for your conditioning.
+Someone you will harm when the code phrase is spoken.
 
 Cyborg
 power level 4
@@ -328,6 +347,20 @@ Bond Relationship Choose.
 Someone whose lands you have been poaching on.
 Someone who has hired you as a guide in the hinterlands.
 
+Infantry
+power level 3
+Abilities Prowess 3d, Speed 3d, Steel 3d
+Training All Armor, Platoon Tactics
+And choose according to whether you served on land or on a spacecraft.
+Forced March
+Zero-G Movement
+Resources
+Room and board at your barracks.
+Weapons and armor: fitted heavy armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), combat knife (threat 2), centrifuge rifle (threat 3)
+Bond Relationship Choose.
+A comrade in arms.
+Your commander.
+
 Ingenue
 power level 1
 Abilities Influence 3d, possibly Perception 3d, possibly Steel 3d
@@ -360,15 +393,6 @@ Abilities Perception 3d
 Resources
 A manual containing instructions for learning an advanced or secret technique, and any basic or advanced techniques it depends on. Any character who studies the manual in a training scene may attempt to learn one of these technique. The first character to successfully do so does not need to increase Nemesis; if that character is you, you do not need to increase power level, either.
 Bond Relationship The rightful owner of the manual.
-
-Marine
-power level 3
-Abilities Prowess 3d, Speed 3d, Steel 3d
-Training Zero-G Movement, All Armor, Shields, Platoon Tactics
-Resources
-Room and board at your barracks.
-Weapons and armor: fitted heavy space armor (protection 3, bulk 2 or 1 with your training), centrifuge pistol (threat 2), centrifuge rifle (threat 3), diamond sword (threat 2, or 3 in two hands), shield (+1 guard value).
-Bond Relationship A comrade in arms.
 
 Masseur
 power level 3
@@ -610,6 +634,19 @@ Your patron.
 A rival within your field.
 The Guild monitor or Inquisition censor appointed to inspect your work.
 
+Seneschal
+power level 3
+Abilities Influence 3d, Logistics 3d, Perception 3d
+Training Courtly Etiquette, Accounting, Estate Management
+Resources
+Authority to manage an estate, including accounts, work crews, houseold servants, guards and security, meals, lodgings, and the motor pool.
+The best rooms on the estate not given over to family or guests, a seat at the high table, and a large stipend.
+Servants under your management who feed you gossip and private information.
+The trust and confidence of the owner of the estate.
+Bond Relationship Choose.
+The owner of the estate.
+A servant under your authority.
+
 Sniper
 power level 4
 Abilities Perception 4d, Stealth 3d, possibly Survival 3d
@@ -766,12 +803,12 @@ Bond Relationship One whose sins and transgressions have not escaped your notice
 
 Ascetic Deodand
 exemplar order • power level 6
-Abilities Perception 4d, Steel 3d
+Abilities possibly Medicine 3d, Perception 4d, Steel 3d
 Specialty Archery (Perception)
 Training Meditation, Empathy, Ecclesiastical Ritual, Bowyer, Fletcher
 Traits
-Sooth Sayer: If you ever tell a lie, commit any carnal act, imbibe alcohol or other intoxicants, or willingly mutilate your body or genome, shade a circle of Nemesis and lose this trait (remove it for ever). Any test made to deceive you is rolled at +1 Difficulty.
-Reflex Shooting: You draw and release your bow in a single motion, finding the target by instinct rather than sight. You may shoot blind without penalty. You may always test your Pereception to land an arrow with your bow. You may always add bonus dice from your Extrasensory Perception technique when testing Perception with your bow.
+Soothsayer: If you ever tell a lie, commit any carnal act, imbibe alcohol or other intoxicants, or willingly mutilate your body or genome, shade a circle of Nemesis and lose this trait (remove it for ever). Any test made to deceive you is rolled at +1 Difficulty.
+Reflex Shooting: You draw and release your bow in a single motion, finding the target by instinct rather than sight. You may shoot blind without penalty. You may always test your Perception to land an arrow with your bow. You may always add bonus dice from your Extrasensory Perception technique when testing Perception with your bow.
 Resources
 Sanctified purity.
 Room and board at the shrine.
@@ -837,7 +874,7 @@ Bond Relationship Your master.
 Guild Initiate of the Order of Etena
 exemplar order • power level 9
 Abilities Logistics 4d, Prowess 3d, Steel 3d, Technology 3d, possibly Vehicles 3d
-Specialty Calculating Trajectories (Logistics)
+Specialty Battlefield Trajectories (Logistics)
 Training Zero-G Movement, Light and Heavy Armor, Rapid Autohypnosis
 Traits Eidetic Memory
 Resources

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import logging
 
 import chargen
@@ -70,6 +72,20 @@ def list_archetypes():
   text = "\n".join([
     "Power Level {}".format(a.power_level).ljust(20) + a.name
     for a in sorted_archs])
+  return Response(text, mimetype="text/plain")
+
+
+@app.route('/search/<path:query>')
+def search_archetypes(query):
+  sorted_archs = sorted(
+      chargen.Character.ARCHETYPES,
+      key=lambda a: (a.power_level, a.name))
+  matches = [a for a in sorted_archs if query.lower() in a.raw_text]
+  header = "{n} archetypes contain the string '{q}'.\n\n".format(
+      n=len(matches), q=query)
+  text = header + "\n".join([
+    "Power Level {}".format(a.power_level).ljust(20) + a.name
+    for a in matches])
   return Response(text, mimetype="text/plain")
 
 
