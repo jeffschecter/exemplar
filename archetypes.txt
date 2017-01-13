@@ -473,7 +473,7 @@ A jealous and demanding patron.
 Someone enthralled by your works.
 
 Political Decoy
-power level 5
+power level 3
 Abilities Influence 3d, Perception 3d
 Specialty Impersonation (Influence)
 Training Acting, Courtly Etiquette
