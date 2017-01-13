@@ -59,7 +59,7 @@ def random_character():
   accept = False
   while not accept:
     ch = chargen.Character()
-    accept = ch.legal and ch.power_level >= 10 and ch.power_level <= 20
+    accept = ch.legal and ch.power_level >= 7 and ch.power_level <= 20
   text = "{}{}".format(ch, EXPLANATORY)
   return Response(text, mimetype="text/plain")
 

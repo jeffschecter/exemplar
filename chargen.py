@@ -272,7 +272,7 @@ class Character(object):
           [best_guess(name, candidate_names) for name in arch_names])
       self.archetypes = [archs_by_name[name] for name in normalized_names]
     else:
-      n_arch = random.randint(2, 4)
+      n_arch = random.choice([2, 2, 3, 3, 3, 4])
       random.shuffle(self.ARCHETYPES)
       self.archetypes = self.ARCHETYPES[:n_arch]
   
