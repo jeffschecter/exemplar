@@ -472,6 +472,19 @@ Bond Relationship Choose.
 A jealous and demanding patron.
 Someone enthralled by your works.
 
+Political Decoy
+power level 5
+Abilities Influence 3d, Perception 3d
+Specialty Impersonation (Influence)
+Training Acting, Courtly Etiquette
+Traits
+Doppelgänger: You have been extensively trained and surgically sculpted to be a near physical and behavioral duplicate of your master, to the extent that uncovering your true identity is impossible without putting you to the question or catching you in an inconsistency.
+Resources
+Room and board from your master.
+High status within your master's household.
+The ability to go unquestioned anywhere your master would go.
+Bond Relationship Your master, for whom you act as a double.
+
 Politician
 power level 2
 Abilities Influence 4d
