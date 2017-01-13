@@ -1,3 +1,14 @@
+Armored
+power level 3
+Abilities Prowess 3d, Vehicles 3d, possiby Technology 3d
+Specialty Exoskeleton (Vehicles)
+Training All Armor, Powered Exoskeleton
+Traits
+Armor Rider: While in your exoskeleton, you may always test Vehicles in place of Speed. When you do, Difficulty penalties for bulk of armor do not apply.
+Resources
+Weapons and armor: fitted powered exoskeleton (protection 4, bulk normally 3 but 2 with your training) with integral massive diamond blade (threat 4) and centrifuge cannon (threat 4)
+Bond Relationship The provider or maintainer of your exoskeleton.
+
 Artisan
 power level 2
 Abilities Technology 3d
