@@ -48,6 +48,19 @@ One dose of a deadly poison (threat 4, ignores armor): choose a capsule that dis
 Antidote to the poison.
 Bond Relationship Your target.
 
+Bastard
+power level 1
+Abilities Steel 3d
+Training Courtly Etiquette
+Traits
+Illegitimate: If you are declared for the same faction as a parent or legitimate half-sibling, your standing within that faction can never exceed that of your legitimate relative's without their consent. When a relative reduces or limits your standing, refresh Willpower up to 3.
+Resources
+A legal claim to inheritance or lands and title, unlikely to be recognized.
+An infamous reputation. Choose debauchery, cruelty, or hauteur beyond your station.
+Bond Relationship Choose.
+A parent who uses the possibility legitimization to control you.
+A legitimate half-sibling.
+
 Beastmaster
 power level 4
 Abilities Perception 3d, possibly Prowess 3d, Speed 3d, possibly Stealth 3d, Survival 3d or 4d
@@ -142,20 +155,24 @@ power level 4
 Abilities Perception 3d, Speed 3d, possibly Survival 3d
 Traits Choose up to 4, or up to 7 if you take a raise.
 Amphibious.
+Diminutive.
 Extended Sensory Range.
 Gecko Climbing.
+Gliding Wing-Flaps.
 Inhuman Appearance.
+Prehensile Tail.
 Toad-Leaping.
 Vacuum Adaptation.
-Tooth and Claw.
+Tooth and Claw (threat 2).
 Massive.
 Contortionist.
 And choose up to 2, or up to 4 if you take a raise.
 Accelerated Healing: You may recover 1 point of lost Vitality at the start or end of each of your highlight scenes. When others test Medicine to help you recover, the base Difficulty from marked wound boxes is halved (rounding down).
+Alternative Sensory Modality: Choose tremorsense, chemoreception, or electroreception. Opponents who do not know of and take measures against your unusual senses test Stealth against you at +2 Difficulty. After you call upon this trait, all enemies are automatically forced out of Hidden range.
 Bloodbag: When another character receives a transfusion of your blood, you count as help on any test of Medicine made to operate on that character. In addition, you may spend up to 2 points of Willpower: 1 to transfer the patient's marked Injured wound box to yourself, and 1 to transfer a point of your own Vitality to the patient.
 Face-Changing: You may enter a fugue during which your appearance, build, and voice change however you like, taking between a few minutes for minor cosmetic changes and a full day for large changes in body type.
-Mimetic Camouflage: When unmoving you are effectively invisible. Whenever you call upon this trait you may immediately move to the Hidden fighting distance.
-Venom: Glands in your mouth or under your fingernails produce a poison of threat 4 that ignores armor, useable once per act.
+Mimetic Camouflage: When unmoving you are effectively invisible. After you call upon this trait you may immediately move to the Hidden fighting distance.
+Venom: Glands in your mouth or under your fingernails produce a deadly toxin. At the start of each act, gain a resource of Poison (threat 4, ignores armor).
 Bond Relationship Someone who treats you like a human being.
 
 Clerk
@@ -250,7 +267,7 @@ Doctor
 power level 3
 Abilities Medicine 4d, possibly Technology 3d
 Specialty Choose.
-Emergency Care (Medicine).
+Surgery (Medicine).
 Cybernetics (Medicine).
 Psychological Conditioning (Medicine).
 Training Choose any or all.
@@ -261,7 +278,7 @@ Biomedical Engineering.
 Epidemiology.
 Trauma Care.
 Traits Choose one, determined by the chosen specialty in Medicine.
-Healing Touch: When you test Medicine to help another character recover, the base Difficulty from marked wound boxes is halved (rounding down). At the same time, if your test succeeds, you may spend any amount of Willpower to let the patient recover an equal amount of Vitality. Paired with Trauma Care.
+Healing Touch: When you test Medicine to help another character recover, the base Difficulty from marked wound boxes is halved (rounding down). At the same time, if your test succeeds, you may spend any amount of Willpower to let the patient recover an equal amount of Vitality. Paired with Surgery.
 Cyberneticist: In a training scene, you may grant other characters traits from the Cyborg archetype. The patient does not need to pass a test of Perception or Steel; instead, you test your Medicine.(Paired with Cybernetics.
 Sculptor of Will: In a training scene, you may grant other characters traits from the Conditioned archetype. Rather than the normal tests for a training scene, roll a contest of your Medicine against the patient's Steel. An extra hit may be spent to grant both the Ban and Trigger traits at once. Nobody needs to shade Nemesis in order to grant these traits. Paired with Psychological Conditioning.
 Resources
