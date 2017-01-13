@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 
 EXPLANATORY = "\n\n" + """
-==============================================================================
+===============================================================================
 
 SPENDING BONUSES:
 Every character starts with one bonus; overlapping abilities may grant you a

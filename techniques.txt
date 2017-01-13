@@ -1,0 +1,126 @@
+Contact
+By holding someone's gaze or touching them skin to skin, you may extend your awareness into their mind. If you wish, you may send impressions of words and images to the target, mind to mind. You may sense their thoughts and intentions, and, with skill and patience, rifle through their memories. Some powerful telepaths may initiate contact from a short distance even without a meeting of gaze or flesh.
+Related Training: Memory Reading, Remote Contact
+Mechanics: Establishing contact with a resistant target should require some form of test. If your target also knows the Contact technique, the link is always bidirectional. Once contact is established, it is hard for the target to break your gaze or pull away from your touch; this usually requires another test.
+Bonus Dice: When you roll Influence or Prowess in contest with a contacted target.
+
+Counting Trance
+You may enter a fugue of computation, in which unconscious processes tally up all you know about some situation, simulate it in infinite variation, and surface insights to your waking mind. A student of the technique may require hours of meditation to ender the fugue, while those with more practice can drop into a trance state, run complex calculations, and resurface all in mere seconds.
+Related Training: Rapid Autohypnosis
+Mechanics: List all the facts you know and do not know about some situation, drop into the trance, and test Steel. The Referee will set the Difficulty based on how much of the situation you have observed and understood: 0 for complete understanding, 1 for some few known unknowns, 2 for many known unknowns, and 4 for important unknown unknowns or false assumptions. Hits may be spent one-for-tone to ask the Referee specific questions about particular details you wish to learn. To each question, the Referee will either answer truthfully, reveal one of your stated premises to be incorrect, or tell you what you must learn in order to know the answer to your question.
+Bons Dice: When you test Steel to engage the counting trance, or when you test Logistics, Influence, or Perception to act on information surfaced by the trance.
+
+Extrasensory Perception
+You can sense the presence of nearby thinking beings, usually out to a distance of a dozen meters or so. With practice, you may learn to recognize individual presences. Intense concentration or meditation can help you extend the range of your perceptions by many orders of magnitude, or sense ghosts of the surface thoughts of beings nearby. Certain phenomena, like great pain, the moment of birth or death, and use of powerful techniques, are sensible from much greater distances.
+Related Training: Meditation, Empathy
+Bonus Dice: When you test Perception or Steel to discern the presence, location, or precipitous intent of someone nearby, and they are not able to distract you or take cover amidst the buzzing thoughts of a great crowd.
+
+Fiber and Sinew
+You may exert minute control over the action of your nerves and muscles. This control grants the ability to ignore pain, to move with incredible precision, and to access at will those reserves of strength normally accessible only in moments of adrenaline-infused panic.
+Mechanics: Test Steel for no purpose other than to roll hits into flow dice on a test of Prowess or Speed. If you do this more than once in a scene, each time after the first costs a point of Vitality.
+Bonus Dice: When you test Steel to access your inner reserves, test Speed to exert minute and fine-grained control over your musculature, or test Steel to overcome pain, measure your endurance, or regain Vitality in a recovery scene.
+
+Grey Eyes
+When you focus your scrutiny, you become receptive to the minute details of autonomic response: subliminal facial tics, the tension of muscles under the skin, the dilation of pores and pupils, rate and location of eye saccades, vocal quality and character, pulse and breath. From these you intuit the intent of your target even before they consciously know it themselves. Beginners may take several minutes to register a target, while those with long experience can do so in the blink of an eye.
+Related Training: Rapid Holistic Impression Receptivity
+Mechanics: Test Perception to register the target of your observation, until you register someone else, relax your concentration, or the scene ends. Someone who knows they are under observation in this way may oppose you with their Steel.
+Bonus Dice: When you test Perception to register someone, or on any test of Influence, Perception, Prowess, Speed, or Steel when you can observe the registered character clearly, and it would be useful to know their moment-to-moment intentions and immediate, instinctive reactions to your own words or actions.
+
+Light Foot
+You move with impossible grace. You may take several steps upon the surface of water or the thinnest branch of a tree without falling through, balance on a single toe for hours, change directions in mid-air. You can leap two or three stories into the air or land gracefully and without injury from similar falls.
+Bonus Dice: When you test Speed to overcome obstacles, to move quickly, or to outrun or outmaneuver opponents.
+
+Mantra of Absence
+Through the silent repetition of a mantra, you may drop into a sort of waking meditation, retaining full awareness of the world but moving in a way that subtly deflects attention and causes thoughts to wander. It is difficult for others to keep track of you, or remember what they have seen after you pass by. For novices, entering the trance may take several minutes; with practice it becomes nearly instantaneous.
+Related Training: Rapid Autohypnosis
+Mechanics: While in your transe, Extrasensory Perception and Contact do not work on you unless you explicitly allow it, you always count as missing information for the purposes of a counting trance, and you may move to Hidden fighting distance directly from Engaged.
+Bonus Dice: When you test Stealth.
+
+Thousand Perfect Forms
+You have internalized a set of stances and movements that shape the body into an optimal weapon. You can puncture the ceramic and diamond of modern arms and armor barehanded, throw enemies across the room, and swat bullets aside with your blade.
+Mechanics: If you use this technique's bonus dice on a test, the enemy's first hit assigned to damage inflicts at most 1 point of Vitality loss, and the first hit that you assign to damage inflicts at least 1 point of Vitality loss, regardless of threat of weapons and protection of armor.
+Bonus Dice: When you test Prowess to defend yourself, or to attack an enemy in close combat or with thrown weapons.
+
+Vital Flow
+With precise touches to nerve and muscle, you may evoke reflexes in the body that stimulate healing, bring rest and recovery, alleviate pain—or induce paralysis, numbness, blindness, nausea, and agony. Acupuncturists may use needles rather than touches and strikes to cause effects that last until their pins are removed. Some learn to place needles from afar.
+Related Training: Acupuncture, Needle-Throwing
+Mechanics: In combat, you may test Medicine to make a debilitating strike. The target's guard value is the Difficulty, as with damaging attacks. If the target has no Vitality remaining, you may spend one hit to paralyze them completely. Else, you may spend one hit to inflict a debility, adding +1 Difficulty to all tests until they pass a test to shrug off the condition.
+Bonus Dice: When you test Medicine to heal or harm.
+
+Crimson Threads
+Requires Vital Flow • You keep dozens of long lines of light, tough crimson thread tied about various points on your body. You tie these lines to your needles, allowing you to guide their flight or exert subtle pressure at a distance. Some threads are attached to several lightweight paper tags, and will flutter and waft in the air for several minutes without falling to the earth; several of these deployed at once create a tricky, entangling spider's web. And like a spider, you have a preternatural sense for any pressure exerted against these threads. Lastly, by placing threaded needles in five specific points on the human body, you may control the body like a puppet, using your own abilities in place of the doll's.
+Mechanics: Test Speed to create a web of threads; you may use Perception on most tests to evade or outmaneuver enemies within the web. When you knock an enemy out of the fight using your needles, you may declare them a puppet. When you control a puppet with this technique, you may test your own abilities at no penalty, or test Medicine in place of Prowess or Speed.
+Bonus Dice: When you test Speed to create your web, test Prowess to guide the path of a thrown needle, or test Medicine to control your puppet through this technique.
+
+Engines of Life
+Requires Fiber and Sinew • You may enter a fugue in which you exert conscious control over the metabolic processes of the cells within your body. You may metabolise poisons harmlessly, accelerate healing processes, conceive or not conceive at will and choose which of your traits are inherited by a child, drop into or wake from a deathlike torpor in which you do not need to breathe or eat. For novices, entering the trance may take several minutes; with practice entering and surfacing from the trance takes mere moments. Some practitioners may extend their control to the bodies of others, via the mingling of vital fluids.
+Related Training: Rapid Autohypnosis, Mingling of Essences
+Mechanics: Test Perception to undo or prevent Vitality loss from poisons, one hit per point of Vitality. In a recovery scene, you may substitute Perception for Steel, and do not need to spend Willpower to regain Vitality.
+Bonus Dice: When you test Perception to manipulate the engines of life.
+
+Flash Steps
+Requires Light Foot • You can move without seeming to move at all. To the observer, you disappear from one spot and reappear in another without passing through the intervening space. A novice of the flash step may move only a few meters, and then must catch their breath; the greatest masters of the technique may cover tens of meters per stride with barely a pause.
+Related Training: Long Steps, Sequential Steps
+Mechanics: You may test Speed to hide yourself or attack an enemy. You may spend a point of Willpower to move to Engaged, Standard, or Distant fighting distance, with no test.
+Bonus Dice: When you test Prowess, Speed, or Stealth, and it might be useful to suddenly appear or disappear.
+
+Geometer's Mercury
+Requires Counting Trance • At a glance, you may perceive and quantify the myriad variables of violence: killing intent, trajectories through the battlefield, probability fields unfolding through space and time.
+Mechanics: In combat, you may test Logistics anywhere that you would normally test Perception, Prowess, Speed, or Stealth.
+Bonus Dice: When you test Logistics in place of Perception, Prowess, Speed, or Stealth.
+
+Invisible Sword
+Requires Extrasensory Perception • You may coalesce your intent to harm into an invisible, intangible blade of pure thought.
+Mechanics: The invisible sword has a threat of 2 and ignores armor. Test Steel to attack with your invisible sword.
+Bonus Dice: When you test Steel to attack with your invisible sword.
+
+Mirror Art
+Requires Mantra of Absence • Exercising extremities of observation, empathy, and body control, you mirror the desires, expectations, or fears of someone with whom you are interacting closely. To their perceptions, you become someone that they know well: your voice is their voice, your face their face, your mannerisms their mannerisms. You do not choose who you become: the subconscious of your mark makes this decision.
+Mechanics: Against a wary mark, you must test Influence or Steel against Steel or Perception. In combat, you may use the Mirror Art to assume the guise of a loved one, making it impossible for the target to attack you until they have passed a test to overcome the illusion, or you break character.
+Bonus Dice: When you test Influence or Steel to invoke or maintain the mirror illusion, or roll any contest against the victim of the illusion to take advantage of their confusion.
+
+Mnemonic Chirurgy
+Requires Contact • When you are in mind-to-mind contact with a target, you may plumb the depths of their memory and erase, modify, or fabricate new memories. Erasing a memory is quick, but fabricating or modifying a memory can be a very lengthy process—unless you have already spent time in meditation, building up a lifelike fabrication (modifications may not be prepared beforehand). If your target is trained in meditation or memory palace construction, they may be better able to resist your chirurgy, or even trap you within their memory palace.
+Related Training: Memory Weaving, Memory Palace
+Mechanics: After you have established contact, test Steel against Perception or Steel to perform the operation. Erasure is Difficulty 0, fabrication is Difficulty 1, and modification is Difficulty 2.
+Bonus Dice: When you test Steel to perform mnemonic chirurgy.
+
+Navigation
+Requires Counting Trance • You may safely plot and maneuver through luminal transit routes.
+Bonus Dice: When you test Logistics or Vehicles for luminal maneuvers.
+
+Voice of Command
+Requires Grey Eyes • When you have registered a target, you may pitch your voice in a way that evokes instant and unthinking obedience to your commands.
+Mechanics: To use your voice of command, you must first register your target, and then test Steel against Steel. Commands that may be obeyed as a single instant reflex ("Drop it!") are Difficulty 0. Commands that take a second or two to carry our ("Kneel!") are Difficulty 1. Commands that might last for several seconds, but require no planning or higher level thought ("Run!") are Difficulty 2. Anything that requires more time and thought ("Untie us")  is Difficulty 4.
+Bonus Dice: When you test Steel against Steel for your voice of command.
+
+Void Practice
+Requires Contact • When you have established contact with a victim, you may overwhelm their psyche with the force of your will, inducing shock, panic, bleeding from the nose and ears, and blackout, sometimes even permanent coma. Some adepts have learned to consume a target utterly, ripping their mind from its housing and encysting it within their own, where they may torture or question it at will.
+Related Training: Mental Encystment
+Mechanics: If you have contacted a target, you may test your Influence to damage them. This is usually opposed by Steel or Influence, or whatever they are using to attack you in turn. Your overwhelming will has a threat of 2 and ignores armor. Guard is not applicable against this technique.
+Bonus Dice: When you test Influence to overwhelm someone with your will.
+
+Genetic Memory
+Requires Engines of Life • You may delve deep into your own genome, conjuring up the memories and personalities of your ancestors from the traces they have left there.
+Mechanics: Test Perception to delve into your genetic memory. Spend hits to ask questions of your ancestors, one for one. The Referee will give an answer, though it is not necessarily correct, and may be influenced by the goals and motives of your forebears.
+Bonus Dice: When you test Perception to query your genetic memory, or when you test Logistics, Influence, or Perception to act on the answers provided.
+
+Nerve Seal
+Requires Mantra of Absence • You place three fingers upon the temple and apply a certain pressure, and the victim's memory begins to unravel.
+Mechanics: On any successful hand to hand attack, you may spend one hit to erase the last several minutes of the victim's memory. Two hits prevents them from forming new memories for about a minute more. A third hit erases episodic memory entirely. An amnesiac may resurface relevant memories by spending a point of Willpower.
+Bonus Dice: When you attack a target with the intent of erasing memory.
+
+Sleeping Demon
+Requires Vital Flow • Your touch can affect victims in ways that are not apparent for hours.
+Mechanics: Test Medicine against the Steel of any character you have touched within the last day or so, with the intent of causing them damage or disability. Once you have used your sleeping demon art on a victim, to do so again, you must also touch them again.
+Bonus Dice: When you test Medicine to use your sleeping demon art.
+
+Step Cutting
+Requires Geometer's Mercury • As the logic of the battlefield reveals itself to you, the future paths of your enemies hang in the air like soap bubbles. You cut not where your opponent is, but where they are about to be.
+Mechanics: Once each combat turn, when an engaged enemy announces their action or reaction, you may tell them that you have severed this possibility. The enemy must either change their action, testing a different ability for a different intent, or lose Vitality equal to the threat of your weapon minus the protection of their armor.
+Bonus Dice: When you sever a possibility—regardless of whether the enemy actually changes their intent.
+
+Unseal the Gate
+Requires Vital Flow • You may drag the recently dead back through the gate of life.
+Mechanics: Bring a deceased character back from the dead. Shade a circle of Nemesis.
+Bonus Dice: All contests rolled against the beneficiary of this technique, for ever.

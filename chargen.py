@@ -29,20 +29,22 @@ def best_guess(query, opts):
     return max(scored)[1]
 
 
-def format_item(it):
+def format_item(it, base_indent=4):
   words = it.replace("\n", " ::BREAK:: ").split()
-  s = "    "
-  line_len = 4
+  s = " " * base_indent
+  line_len = base_indent
   extra_indent = False
   for word in words:
     l = len(word) + 1
     if word == "::BREAK::":
-      line_len = 8
+      line_len = base_indent + 4
       extra_indent = True
-      s += "\n        "
+      s += "\n    " + (" " * base_indent)
     elif line_len + l > 80:
-      line_len = 8 + (4 * extra_indent)
-      s += "\n        " + ("    " * extra_indent) + word + " "
+      line_len = base_indent + 5 + (4 * extra_indent) + len(word)
+      s += (
+          "\n    " + (" " * base_indent) +
+          ("    " * extra_indent) + word + " ")
     else:
       line_len += l
       s += word + " "
@@ -51,6 +53,20 @@ def format_item(it):
 
 def format_list(l):
   return "\n".join([format_item(it) for it in l])
+
+
+def format_technique(s):
+  s = s.replace("•", "-")
+  return "{title}\n{body}".format(
+      title=s.split("\n")[0].upper(),
+      body="\n".join(
+          [format_item(it, base_indent=0) for it in s.split("\n")[1:]]))
+
+
+def read_techniques():
+  with open("techniques.txt", "r") as f:
+    tech_txt = f.read()
+  return [format_technique(s) for s in tech_txt.split("\n\n")]
 
 
 # --------------------------------------------------------------------------- #
@@ -202,6 +218,7 @@ class Archetype(object):
 class Character(object):
     
   ARCHETYPES = read_archetypes()
+  TECHNIQUES = read_techniques()
   
   def __init__(self, *arch_names):
     self._determine_archetypes(arch_names)
@@ -220,7 +237,7 @@ class Character(object):
       len(self.archetypes) >=2)
   
   def __str__(self):
-    return "\n".join(line for line in [
+    s = "\n".join(line for line in [
         "ARCHETYPES: " + ", ".join([a.name for a in self.archetypes]),
         "POWER LEVEL: {} plus raises".format(self.power_level),
         "*** THIS IS NOT A LEGAL CHARACTER! ***" * (1 - self.legal),
@@ -240,6 +257,11 @@ class Character(object):
         ("\nSPECIAL RULES:\n" + format_list(self.special_rules)) * min(len(
             self.special_rules), 1)
         ] if line)
+    if self.techniques:
+      s += (
+        "\n\n" + ("=" * 80) + "\n\nRELEVANT TECHNIQUES:\n\n" +
+        self.format_relevant_techniques())
+    return s
   
   def _determine_archetypes(self, arch_names,):
     if arch_names:
@@ -292,6 +314,15 @@ class Character(object):
       if len(top_two) == 2 and top_two[1] == "possibly 3d":
         top_two = top_two[:1]
       self.abilities[ab] = translate[top_two]
+
+  def format_relevant_techniques(self):
+    relevant = set()
+    for my_tech in self.techniques:
+      lowered = my_tech.lower()
+      for candidate in self.TECHNIQUES:
+        if candidate.split("\n")[0].strip().lower() in lowered:
+          relevant.add(candidate)
+    return "\n\n".join(sorted(relevant))
 
 
 # --------------------------------------------------------------------------- #
