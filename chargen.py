@@ -16,7 +16,9 @@ def read_archetypes():
 
 
 def similarity(s1, s2):
-  return float(len(s1 & s2)) / ((len(s1) ** 0.5) * (len(s2) ** 0.5))
+  bonus = s1 in s2
+  s1, s2 = set(s1), set(s2)
+  return float(len(s1 & s2)) / ((len(s1) ** 0.5) * (len(s2) ** 0.5)) + bonus
 
 
 def best_guess(query, opts):
@@ -24,8 +26,7 @@ def best_guess(query, opts):
   if query in opts:
     return query
   else:
-    qlet = set(query)
-    scored = [(similarity(set(opt), qlet), opt) for opt in opts]
+    scored = [(similarity(query, opt), opt) for opt in opts]
     return max(scored)[1]
 
 
