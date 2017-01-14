@@ -46,11 +46,11 @@ Overlapping grants of character attributes are handled as follows:
     - Training: If granted the same training multiple times, you only get it
       once. (Extra versions of the same training wouldn't help you, anyay.)
     - Traits: If granted the same trait multiple times, you only get it once.
-    - Resources: You may only take the weapons and armor from one of your
-      archetypes. You may only have one line of credit, one stipend or source
+    - Resources: You may only have one line of credit, one stipend or source
       of income, one reserve of wealth, and one lodging or source of room and
       board; for each of these categories, if you have multiple resources,
-      choose one to keep and drop the rest.
+      choose one to keep and drop the rest. If you have multiple weapons and
+      armor resources, merge them into one, dropping any duplicate items.
 """
 
 

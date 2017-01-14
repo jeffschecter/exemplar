@@ -6,6 +6,8 @@ Training All Armor, Powered Exoskeleton
 Traits
 Armor Rider: While in your exoskeleton, you may always test Vehicles in place of Speed. When you do, Difficulty penalties for bulk of armor do not apply.
 Resources
+Room and board in your barracks.
+A hangar where you can store your exoskeleton, and have it refueled, repaired, and rearmed.
 Weapons and armor: fitted powered exoskeleton (protection 4, bulk normally 3 but 2 with your training) with integral massive diamond blade (threat 4) and centrifuge cannon (threat 4)
 Bond Relationship The provider or maintainer of your exoskeleton.
 
@@ -87,7 +89,8 @@ Bond Relationship Your employer and ward.
 Bounty Hunter
 power level 4
 Abilities Prowess 3d, Speed 3d, possibly Stealth 3d, Technology 3d, possibly Vehicles 3d
-Training All Armor, Heavy Weapons, Exotic Hand Weapons, Booby Traps
+Training All Armor, Heavy Weapons, Booby Traps
+Specialty Snares and Distractions (Technology)
 Traits
 Armamentarium: In combat, you may always test Technology when using your resources to confuse, stun, slow down, ensnare, delay, or outmaneuver the opponent, as long as you are not also trying to deal damage.
 Resources
@@ -173,6 +176,8 @@ Bloodbag: When another character receives a transfusion of your blood, you count
 Face-Changing: You may enter a fugue during which your appearance, build, and voice change however you like, taking between a few minutes for minor cosmetic changes and a full day for large changes in body type.
 Mimetic Camouflage: When unmoving you are effectively invisible. After you call upon this trait you may immediately move to the Hidden fighting distance.
 Venom: Glands in your mouth or under your fingernails produce a deadly toxin. At the start of each act, gain a resource of Poison (threat 4, ignores armor).
+Resources
+The ability to evoke a religious fear of the impure among those faithful to the state religion of Intersystem culture, when you reveal your genetic modifications.
 Bond Relationship Someone who treats you like a human being.
 
 Clerk
@@ -408,7 +413,7 @@ Manual-Reader
 power level 2
 Abilities Perception 3d
 Resources
-A manual containing instructions for learning an advanced or secret technique, and any basic or advanced techniques it depends on. Any character who studies the manual in a training scene may attempt to learn one of these technique. The first character to successfully do so does not need to increase Nemesis; if that character is you, you do not need to increase power level, either.
+A stolen manual containing instructions for learning an advanced or secret technique, and any basic or advanced techniques it depends on. Any character who studies the manual in a training scene may attempt to learn one of these technique. The first character to successfully do so does not need to increase Nemesis; if that character is you, you do not need to increase power level, either.
 Bond Relationship The rightful owner of the manual.
 
 Masseur
@@ -656,7 +661,7 @@ power level 3
 Abilities Influence 3d, Logistics 3d, Perception 3d
 Training Courtly Etiquette, Accounting, Estate Management
 Resources
-Authority to manage an estate, including accounts, work crews, houseold servants, guards and security, meals, lodgings, and the motor pool.
+Authority to manage an estate, including accounts, work crews, household servants, guards and security, meals, lodgings, and the motor pool.
 The best rooms on the estate not given over to family or guests, a seat at the high table, and a large stipend.
 Servants under your management who feed you gossip and private information.
 The trust and confidence of the owner of the estate.
@@ -676,7 +681,7 @@ Resources
 Weapons and armor: bulletproof vest (protection 1, bulk normally 1 but 0 with your training), sniper rifle (threat 4)
 Bond Relationship A target who lived.
 Related Rules
-The sniper rifle may only be used from the Distant (+1 Difficulty) or Hidden (no penalty) fighting distances.
+The sniper rifle may only be used from the Standard (+2 Difficulty), Distant (no penalty), or Hidden (no penalty) fighting distances.
 
 Spy
 power level 5
@@ -797,7 +802,7 @@ A monastery, with attendant revenues and lodgings.
 Retinue of robe-bearers and novices.
 Authority to issue edicts of excommunication, holy war, pardon, and official interpretation of ecclesiastical law.
 Techniques Extrasensory Perception, Fiber and Sinew, Engines of Life
-And you may take a raise to choose one.
+And choose up to one, at the cost of a raise.
 Genetic Memory.
 Thousand Perfect Forms.
 Bond Relationship A parishioner or subordinate who has strayed from rectitude.
@@ -830,6 +835,7 @@ Resources
 Sanctified purity.
 Room and board at the shrine.
 Authority to pronounce a place or thing ritually clean or unclean.
+Elaborate ceremonial dress, which must be worn for all ritual duties and whenever leaving the shrine.
 Weapons: bow and arrow (threat 2) and long dagger (threat 2), both beautifully decorated ritual objects.
 Remit to leave the shrine for a single specific purpose. Choose: to bear messages from the priest, to collect taxes, to perform rituals of purification and exorcism, to carry out executions.
 Techniques Extrasensory Perception
@@ -839,7 +845,6 @@ Special Rules A deodand is a young child surrendered unto the church, usually a 
 Breeding Program Scion
 exemplar order • power level 5
 Abilities Perception 3d, Steel 3d
-Training Rapid Holistic Impression Receptivity
 Traits
 Genetically Perfected: You may engage in physical exertion for twice as long without tiring, have twice the lifespan of most humans, immunity to common illnesses, and almost no need for sleep. Add +1 to your Vitality pool.
 Resources
@@ -971,7 +976,7 @@ Latent Power
 exemplar order • power level 2
 Abilities Steel 3d
 Traits
-Emerging Talent: At any point, sacrifice this trait (remove it permanently) to immediately gain any basic technique that you have seen used, and for which you meet any requirements. Lose this trait if you acquire a technique by any other method.
+Emerging Talent: At any point, sacrifice this trait (remove it permanently) to immediately gain any basic technique that you have seen used. Lose this trait if you acquire a technique by any other method.
 Bond Relationship Someone who knows of or suspects your potential.
 
 Marine Knight-Commander

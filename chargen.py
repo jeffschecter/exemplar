@@ -18,7 +18,7 @@ def read_archetypes():
 def similarity(s1, s2):
   bonus = s1 in s2
   s1, s2 = set(s1), set(s2)
-  return float(len(s1 & s2)) / ((len(s1) ** 0.5) * (len(s2) ** 0.5)) + bonus
+  return float(len(s1 & s2)) / ((len(s1) ** 0.5) + (len(s2) ** 0.5)) + bonus
 
 
 def best_guess(query, opts):
