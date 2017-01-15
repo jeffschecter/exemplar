@@ -61,7 +61,7 @@ def random_character():
     ch = chargen.Character()
     accept = ch.legal and ch.power_level >= 7 and ch.power_level <= 20
   text = "{}{}".format(ch, EXPLANATORY)
-  return Response(text, mimetype="text/plain")
+  return Response(text, mimetype="text/plain; charset=unicode")
 
 
 @app.route('/list')

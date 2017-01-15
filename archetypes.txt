@@ -349,7 +349,7 @@ Someone who has recently done a favor for you.
 Gunslinger
 power level 5
 Abilities Prowess 4d, Perception 3d, Speed 3d or 4d
-Specialty Paired Pistols (Aim)
+Specialty Paired Pistols (Prowess)
 Training Light Armor, Gunsmith, Dual Wield
 Traits
 Gun Fu: Ignore the +1 Difficulty penalty for using pistols while engaged.
@@ -958,7 +958,7 @@ Light Foot
 Flash Steps
 Thousand Perfect Forms
 Step Cutting
-Bond Relationship The navigator, ship captain, or noble who holds your indenture.
+Bond Relationship The holder of your indenture, whom you serve as sworn shield.
 
 Guild Navigator
 exemplar order • power level 8

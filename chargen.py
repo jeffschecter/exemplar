@@ -243,7 +243,7 @@ class Character(object):
         "POWER LEVEL: {} plus raises".format(self.power_level),
         "*** THIS IS NOT A LEGAL CHARACTER! ***" * (1 - self.legal),
         "\nABILITIES:\n    " + "\n    ".join([
-            "{ab}: {rat}".format(ab=ab, rat=rat)
+            "{ab}: {rat}".format(ab=ab.rjust(10), rat=rat)
             for ab, rat in sorted(self.abilities.items())]),
         ("\nSPECIALTIES: (max of one per Ability)\n" + format_list(
             self.specialties)) * min(len(self.specialties), 1),
@@ -293,17 +293,17 @@ class Character(object):
         "Speed", "Stealth", "Steel", "Survival", "Technology", "Vehicles"]
     ranks = {"possibly 3d": 0, "3d": 1, "3d or 4d": 2, "4d": 3}
     translate = {
-        (): "2d",
-        ("possibly 3d",): "2d, or 3d and +1 raise",
-        ("3d",): "3d",
-        ("3d or 4d",): "3d, or 4d and +1 raise",
-        ("4d",): "4d",
-        ("3d", "3d"): "3d and +1 bonus, or 4d",
-        ("3d or 4d", "3d"): "3d and +1 bonus, or 4d",
-        ("3d or 4d", "3d or 4d"): "3d and +1 bonus, or 4d",
-        ("4d", "3d"): "4d and +1 bonus",
-        ("4d", "3d or 4d"): "4d and +1 bonus",
-        ("4d", "4d"): "4d and +1 bonus"}
+        ():                       "🎲🎲",
+        ("possibly 3d",):         "🎲🎲              or 🎲🎲🎲   +raise",
+        ("3d",):                  "🎲🎲🎲",
+        ("3d or 4d",):            "🎲🎲🎲            or 🎲🎲🎲🎲 +raise",
+        ("4d",):                  "🎲🎲🎲🎲",
+        ("3d", "3d"):             "🎲🎲🎲   +bonus   or 🎲🎲🎲🎲",
+        ("3d or 4d", "3d"):       "🎲🎲🎲   +bonus   or 🎲🎲🎲🎲",
+        ("3d or 4d", "3d or 4d"): "🎲🎲🎲   +bonus   or 🎲🎲🎲🎲",
+        ("4d", "3d"):             "🎲🎲🎲🎲 +bonus",
+        ("4d", "3d or 4d"):       "🎲🎲🎲🎲 +bonus",
+        ("4d", "4d"):             "🎲🎲🎲🎲 +bonus"}
     self.abilities = {}
     for ab in ab_list:
       grants = [
