@@ -317,6 +317,22 @@ Bad reputation. Choose gambler, fop, hotheaded braggart, or murderer.
 Weapons and armor: silksteel shirt (protection 1, bulk normally 1 but 0 with your training), diamond smallsword (threat 2), parrying blade (+1 guard when used defensively in the off-hand, with your training).
 Bond Relationship One whose honor you have sworn to defend with your blade.
 
+Elder
+power level 1
+Abilities possibly Influence 3d, possibly Perception 3d, possibly Steel 3d
+Traits Choose two.
+Mostly Mummified.
+Ready for the End.
+Seen it all twice.
+Surprisingly Spry.
+Resources
+The respect of the younger generation.
+A wealth of memories.
+Choose either a large family of obliging children and grandchildren, a legendary reputation from your younger days, or a bitter resentment for a world that's moved past you.
+Bond Relationship Choose.
+One of the few remaining friends from your own generation.
+A child or grandchild.
+
 Gangster
 power level 3
 Abilities Influence 3d, possibly Prowess 3d, Vehicles 3d
@@ -388,7 +404,7 @@ power level 1
 Abilities Influence 3d, possibly Perception 3d, possibly Steel 3d
 Specialty Puppy Dog Eyes (Influence)
 Traits
-Naive: You must forfeit any contest of Steel against Steel, or of your Perception or Steel against another's Influence. Your opponent achieves their goal without a roll. Whenever you do so, refresh Willpower up to 2, or 3 if your opponent is one of your bonds. If you ever choose not to forfeit such a test, lose this trait (remove it permanently).
+Naive: You must forfeit any contest of Steel against Steel, or of your Perception or Steel against another's Influence. Your opponent achieves their goal without a roll. Whenever you do so, refresh Willpower up to 2, or 3 if your opponent is one of your bonds. If you ever choose not to forfeit such a test, lose this trait (remove it permanently); you can't do this in the first act.
 Resources
 The presumption of innocence.
 A gaggle of suitors who desire to impress you and earn your affections.
@@ -408,6 +424,19 @@ A deep line of offworld credit.
 Authority to act as judge, jury, and executioner in matters of ecclesiastical law.
 Choose: a train of a dozen clerks, monks, and guards, a warrant for the arrest of someone in power, or a writ of seizure and sale for an estate or capital ship.
 Bond Relationship A suspected heretic.
+
+Kid
+power level 1
+Abilities possibly Perception 3d, possibly Speed 3d
+Traits Choose two.
+Perfect Little Princess (or Prince).
+Scrappy Little Brat.
+Fits In Small Places.
+Know It All.
+Resources
+Room and board from your parent or guardian.
+A secret hiding place.
+Bond Relationship Your parent or guardian
 
 Manual-Reader
 power level 2
@@ -568,6 +597,26 @@ Somewhere you go incognito to interact with members of the public. Choose a bust
 A media production studio, with assistants and employees.
 A channel of distribution with wide reach. Choose state-sponsored broadcasts, pirate broadcasts, word of mouth and black market pamphlets, air-dropped pamphlets, anonymous information dumps on public networks.
 Bond Relationship The target of your recent smear campaigns.
+
+Pseudo Intelligence
+power level 3
+Abilities Logistics 3d, Technology 3d
+Specialty Choose.
+Simulation (Logistics)
+Reprogramming Devices (Technology)
+Training Software
+Traits
+Brain-Machine Interface.
+Electronic Brain: You are an artificially created pseudo-intelligence running out of an electronic brain, implanted in either a vat-grown or robotic body. You may not start with any exemplar order archetypes, and can never learn techniques. Extrasensory Perception, Contact, and similar techniques do not work on you.
+And choose one.
+Meat Puppet.
+Robotic Chassis.
+Resources
+Choose documents issued by the Navigators' Guild licensing your existence, or a reward out for your recapture and bounty hunters on your tail.
+Several astute observations upon the oddities of human nature.
+Bond Relationship  Choose.
+A bounty hunter seeking to capture you and turn you over to the Guild.
+The holder of your indenture.
 
 Puppeteer
 power level 3
