@@ -1035,6 +1035,8 @@ Training Zero-G Movement, All Armor, Shields
 And choose according to your order.
 Ecclesiastical Ritual (Marines Templar)
 Law (Marines Justiciar)
+Traits
+Second Skin: You wear your armor effortlessly. The bulk of your fitted heavy space armor is not applied to tests of Speed while in combat.
 Resources
 Writ authorizing the use of force to achieve a specific mission goal.
 Choose a loyal squire, command over a squad of a dozen novice marines of your order, or the authorization to order an orbital bombardment.
