@@ -289,7 +289,7 @@ Sculptor of Will: In a training scene, you may grant other characters traits fro
 Resources
 Your clinic, hospital, or medical bay, and associated incomes.
 Medical support staff and assistants.
-Drugs and poisons (threat 4, ignores armor).
+Drugs and imbibed poisons (threat 4, ignores armor).
 Bond Relationship A patient.
 
 Drifter

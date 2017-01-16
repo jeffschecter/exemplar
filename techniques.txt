@@ -34,7 +34,7 @@ Mantra of Absence
 Through the silent repetition of a mantra, you may drop into a sort of waking meditation, retaining full awareness of the world but moving in a way that subtly deflects attention and causes thoughts to wander. It is difficult for others to keep track of you, or remember what they have seen after you pass by. For novices, entering the trance may take several minutes; with practice it becomes nearly instantaneous.
 Related Training: Rapid Autohypnosis
 Mechanics: While in your transe, Extrasensory Perception and Contact do not work on you unless you explicitly allow it, you always count as missing information for the purposes of a counting trance, and you may move to Hidden fighting distance directly from Engaged.
-Bonus Dice: When you test Stealth.
+Bonus Dice: When you test Stealth while in your trance.
 
 Thousand Perfect Forms
 You have internalized a set of stances and movements that shape the body into an optimal weapon. You can puncture the ceramic and diamond of modern arms and armor barehanded, throw enemies across the room, and swat bullets aside with your blade.
