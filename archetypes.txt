@@ -694,7 +694,7 @@ Physics.
 Psychology.
 Mathematics.
 Traits
-Breakthrough Discovery: At the start of your highlight scenes, by shading a circle of Nemesis you may declare a breakthrough discovery. Tell the Referee what you have been working on. They will add a core resource to your declared faction representing the fruits of your discovery.
+Breakthrough Discovery: At the start of your highlight scenes, by shading a circle of Nemesis you may declare a breakthrough discovery. Tell the Referee what you have been working on. They will add a core resource to your declared faction representing the fruits of your discovery. You can not do this if any faction has an existent resource that you have created with this trait.
 Resources
 Your laboratory and research assistants.
 Large stipend.
@@ -796,9 +796,11 @@ Specialty Choose one.
 Intrusion (Stealth).
 Picking Pockets (Stealth).
 Training Counter-Security, Sleight of Hand
+Traits
+Sticky Hands: At the start of each episode, choose one resource of another protagonist, as approved by the Referee. This resource should be a physical item, rather than a line of credit, organizational influence, room and board, command of a vessel, and so on. The resource starts in your possession, rather than the rightful owner's.
 Resources
 Weapons: A small knife (threat 2).
-Something stolen: choose one of the resources of another protagonist, as approved by the Referee. It starts in your possession, rather than the rightful owner's.
+Your stolen goods.
 Bond Relationship The rightful owner of your stolen goods.
 
 Tutor

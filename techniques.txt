@@ -28,6 +28,7 @@ Bonus Dice: When you test Perception to register someone, or on any test of Infl
 
 Light Foot
 You move with impossible grace. You may take several steps upon the surface of water or the thinnest branch of a tree without falling through, balance on a single toe for hours, change directions in mid-air. You can leap two or three stories into the air or land gracefully and without injury from similar falls.
+Mechanics: You can't use Light Foot, or any advanced or secret technique which requires Light Foot, while wearing armor with a Bulk greater than 0.
 Bonus Dice: When you test Speed to overcome obstacles, to move quickly, or to outrun or outmaneuver opponents.
 
 Mantra of Absence
